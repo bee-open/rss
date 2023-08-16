@@ -119,6 +119,7 @@ def tran(sec, max_item):
         description = soup.get_text()
         # 转义特殊字符
         description = description.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;').replace('"', '&quot;').replace("'", '&#39;')
+        link = link.replace('&', '&amp;')
         one = dict(title=title, link=link, description=description, guid=guid, pubDate=pubDate)
         rss_items.append(one)
 
