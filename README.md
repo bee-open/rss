@@ -12,3 +12,5 @@
 
 ## 已转换翻译源
  - source001 [https://www.coindesk.com/arc/outboundfeeds/rss/](https://www.coindesk.com/arc/outboundfeeds/rss/) -> [CoinDesk](rss/CoinDesk.xml)
+ - source002 [https://bitcoinmagazine.com/.rss/full/](https://bitcoinmagazine.com/.rss/full/) -> [bitcoinmagazine](rss/bitcoinmagazine.xml)
+ - source003 [https://cointelegraph.com/rss](https://cointelegraph.com/rss) -> [cointelegraph](rss/cointelegraph.xml)
