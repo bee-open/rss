@@ -1,0 +1,12 @@
+mtranslate
+lxml
+html5lib
+jinja2
+googletrans
+googletrans==4.0.0-rc1  
+bs4
+beautifulsoup4 
+pygtrans 
+feedparser 
+rfeed
+requests
