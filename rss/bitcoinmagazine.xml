@@ -4,7 +4,21 @@
     <title>比特币杂志 - 比特币新闻、文章和专家见解</title>
     <link>https://bitcoinmagazine.com</link>
     <description>《比特币杂志》成立于 2012 年，是有关比特币的最古老、最成熟的值得信赖的新闻、信息和思想领导力来源。</description>
-    <lastBuildDate>Thu, 17 Aug 2023 00:44:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Aug 2023 12:20:07 GMT</lastBuildDate>
+    <item>
+      <title>丢失比特币的最糟糕方法</title>
+      <link>https://bitcoinmagazine.com/culture/avoid-these-mistakes-or-lose-your-bitcoin</link>
+      <description><![CDATA[有很多恐怖故事描述了毫无戒心的持有者如何丢失他们的比特币。避免它们，或者付出代价。]]></description>
+      <guid>https://bitcoinmagazine.com/culture/avoid-these-mistakes-or-lose-your-bitcoin</guid>
+      <pubDate>Thu, 17 Aug 2023 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>私人比特币交易教育项目Coinjoins.org已正式启动</title>
+      <link>https://bitcoinmagazine.com/business/educational-project-for-private-bitcoin-transactions-coinjoins-org-has-officially-launched</link>
+      <description><![CDATA[流行的比特币隐私工具 Wasabi Wallet 的贡献者宣布推出一个开源教育项目，以推进协作比特币交易。]]></description>
+      <guid>https://bitcoinmagazine.com/business/educational-project-for-private-bitcoin-transactions-coinjoins-org-has-officially-launched</guid>
+      <pubDate>Thu, 17 Aug 2023 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>BitGo 筹集 1 亿美元 C 轮融资，估值 17.5 亿美元</title>
       <link>https://bitcoinmagazine.com/business/bitgo-raises-100-million-series-c-funding-at-1-billion-valuation</link>
@@ -36,14 +50,14 @@
     <item>
       <title>Blockstream 推出“BASIC Note”以利用预期的 ASIC 市场复苏</title>
       <link>https://bitcoinmagazine.com/business/blockstream-banks-on-asic-market-recovery-with-basic-note</link>
-      <description><![CDATA[Blockstream 与 STOKR 合作，通过 Liquid 网络创建投资产品，旨在购买低价 ASIC 并在牛市期间转售。]]></description>
+      <description><![CDATA[Blockstream 与 STOKR 合作，通过 Liquid 网络创建投资产品，旨在购买低价 ASIC 以便在牛市期间转售。]]></description>
       <guid>https://bitcoinmagazine.com/business/blockstream-banks-on-asic-market-recovery-with-basic-note</guid>
       <pubDate>Tue, 15 Aug 2023 14:00:00 GMT</pubDate>
     </item>
     <item>
       <title>欧洲首只现货比特币 ETF 现已在阿姆斯特丹泛欧交易所上市</title>
       <link>https://bitcoinmagazine.com/markets/europes-first-spot-bitcoin-etf-now-listed-on-euronext-amsterdam</link>
-      <description><![CDATA[在美国证券交易委员会推迟批准现货比特币 ETF 的决定后不到一周，欧洲推出了第一个比特币 ETF。]]></description>
+      <description><![CDATA[在美国证券交易委员会推迟批准现货比特币 ETF 的决定后不到一周，欧洲就推出了第一个比特币 ETF。]]></description>
       <guid>https://bitcoinmagazine.com/markets/europes-first-spot-bitcoin-etf-now-listed-on-euronext-amsterdam</guid>
       <pubDate>Tue, 15 Aug 2023 12:05:22 GMT</pubDate>
     </item>
@@ -302,7 +316,7 @@
     <item>
       <title>人权基金会宣布针对比特币开发发起 20 BTC 赏金挑战</title>
       <link>https://bitcoinmagazine.com/business/human-rights-foundation-announces-20-btc-bounty-challenge-for-bitcoin-development</link>
-      <description><![CDATA[HRF比特币赏金挑战赛已正式启动，总奖励池为20 BTC，重点关注交易隐私和比特币自主主权发展。]]></description>
+      <description><![CDATA[HRF比特币赏金挑战赛正式启动，总奖励池20 BTC，重点关注交易隐私和比特币自主主权发展。]]></description>
       <guid>https://bitcoinmagazine.com/business/human-rights-foundation-announces-20-btc-bounty-challenge-for-bitcoin-development</guid>
       <pubDate>Thu, 27 Jul 2023 14:00:00 GMT</pubDate>
     </item>
@@ -330,7 +344,7 @@
     <item>
       <title>大学应该为学生提供比特币以提高参与度并增加价值</title>
       <link>https://bitcoinmagazine.com/culture/universities-should-offer-bitcoin-bounties-to-students</link>
-      <description><![CDATA[随着大学的参与度下降以及学生质疑高等教育的价值，纳入比特币奖励可能会有所帮助。]]></description>
+      <description><![CDATA[随着大学参与度下降以及学生质疑高等教育的价值，纳入比特币奖励可能会有所帮助。]]></description>
       <guid>https://bitcoinmagazine.com/culture/universities-should-offer-bitcoin-bounties-to-students</guid>
       <pubDate>Tue, 25 Jul 2023 12:00:00 GMT</pubDate>
     </item>
@@ -340,20 +354,6 @@
       <description><![CDATA[Mining Disrupt 2023 重返迈阿密，有专家演讲者、顶级赞助商和广泛的交流机会。]]></description>
       <guid>https://bitcoinmagazine.com/industry-events/us-presidential-candidate-robert-f-kennedy-jr-to-speak-at-mining-disrupt-bitcoin-conference</guid>
       <pubDate>Mon, 24 Jul 2023 23:11:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>新兴前沿：比特币的采用如何在最需要的地方增长</title>
-      <link>https://bitcoinmagazine.com/culture/how-bitcoin-adoption-is-growing-against-weak-currencies</link>
-      <description><![CDATA[尽管挑战依然存在，但比特币在经历法定货币崩溃的国家的增长展示了一条走向全球采用的道路。]]></description>
-      <guid>https://bitcoinmagazine.com/culture/how-bitcoin-adoption-is-growing-against-weak-currencies</guid>
-      <pubDate>Mon, 24 Jul 2023 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿曼达·卡瓦莱里 (Amanda Cavaleri) 谈比特币文化、采用以及为子孙后代保留智慧</title>
-      <link>https://bitcoinmagazine.com/culture/amanda-cavaleri-interview-on-bitcoin-culture-and-gender-gap</link>
-      <description><![CDATA[政策倡导者、矿业领袖和作家阿曼达·卡瓦莱里亚 (Amanda Cavaleria) 讨论了她走向比特币的缓慢历程、Twitter 的问题以及缩小性别差距。]]></description>
-      <guid>https://bitcoinmagazine.com/culture/amanda-cavaleri-interview-on-bitcoin-culture-and-gender-gap</guid>
-      <pubDate>Sun, 23 Jul 2023 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
