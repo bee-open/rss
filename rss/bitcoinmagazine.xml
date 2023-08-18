@@ -4,7 +4,28 @@
     <title>比特币杂志 - 比特币新闻、文章和专家见解</title>
     <link>https://bitcoinmagazine.com</link>
     <description>《比特币杂志》成立于 2012 年，是有关比特币的最古老、最成熟的值得信赖的新闻、信息和思想领导力来源。</description>
-    <lastBuildDate>Thu, 17 Aug 2023 12:20:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Aug 2023 00:45:40 GMT</lastBuildDate>
+    <item>
+      <title>Trezor 扩展隐私功能，为 Trezor Model One 推出 Coinjoin</title>
+      <link>https://bitcoinmagazine.com/business/trezor-expands-privacy-features-introduces-coinjoin-for-trezor-model-one</link>
+      <description><![CDATA[Trezor Model One 引入了 coinjoin，增强了所有用户的比特币交易隐私和安全性。]]></description>
+      <guid>https://bitcoinmagazine.com/business/trezor-expands-privacy-features-introduces-coinjoin-for-trezor-model-one</guid>
+      <pubDate>Thu, 17 Aug 2023 16:25:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>比特币杂志书籍宣布新书发布：吉米·宋（Jimmy Song）撰写的《菲亚特毁掉一切》</title>
+      <link>https://bitcoinmagazine.com/bitcoin-books/bitcoin-magazine-books-releases-fiat-ruins-everything</link>
+      <description><![CDATA[比特币杂志图书在其不断壮大的阵容中增加了一位新作者。本标题探讨了各种形式的法币贬值以及比特币如何带来一线希望。]]></description>
+      <guid>https://bitcoinmagazine.com/bitcoin-books/bitcoin-magazine-books-releases-fiat-ruins-everything</guid>
+      <pubDate>Thu, 17 Aug 2023 13:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么是软货币？定义、与硬通货的比较</title>
+      <link>https://bitcoinmagazine.com/guides/soft-money</link>
+      <description><![CDATA[软货币是一种货币，如纸币或法定货币，易于创造，与黄金、白银和比特币等硬货币形成鲜明对比。]]></description>
+      <guid>https://bitcoinmagazine.com/guides/soft-money</guid>
+      <pubDate>Thu, 17 Aug 2023 13:02:52 GMT</pubDate>
+    </item>
     <item>
       <title>丢失比特币的最糟糕方法</title>
       <link>https://bitcoinmagazine.com/culture/avoid-these-mistakes-or-lose-your-bitcoin</link>
@@ -50,14 +71,14 @@
     <item>
       <title>Blockstream 推出“BASIC Note”以利用预期的 ASIC 市场复苏</title>
       <link>https://bitcoinmagazine.com/business/blockstream-banks-on-asic-market-recovery-with-basic-note</link>
-      <description><![CDATA[Blockstream 与 STOKR 合作，通过 Liquid 网络创建投资产品，旨在购买低价 ASIC 以便在牛市期间转售。]]></description>
+      <description><![CDATA[Blockstream 与 STOKR 合作，通过 Liquid 网络创建投资产品，旨在购买低价 ASIC 并在牛市期间转售。]]></description>
       <guid>https://bitcoinmagazine.com/business/blockstream-banks-on-asic-market-recovery-with-basic-note</guid>
       <pubDate>Tue, 15 Aug 2023 14:00:00 GMT</pubDate>
     </item>
     <item>
       <title>欧洲首只现货比特币 ETF 现已在阿姆斯特丹泛欧交易所上市</title>
       <link>https://bitcoinmagazine.com/markets/europes-first-spot-bitcoin-etf-now-listed-on-euronext-amsterdam</link>
-      <description><![CDATA[在美国证券交易委员会推迟批准现货比特币 ETF 的决定后不到一周，欧洲就推出了第一个比特币 ETF。]]></description>
+      <description><![CDATA[在美国证券交易委员会推迟批准现货比特币 ETF 的决定后不到一周，欧洲推出了第一个比特币 ETF。]]></description>
       <guid>https://bitcoinmagazine.com/markets/europes-first-spot-bitcoin-etf-now-listed-on-euronext-amsterdam</guid>
       <pubDate>Tue, 15 Aug 2023 12:05:22 GMT</pubDate>
     </item>
@@ -316,7 +337,7 @@
     <item>
       <title>人权基金会宣布针对比特币开发发起 20 BTC 赏金挑战</title>
       <link>https://bitcoinmagazine.com/business/human-rights-foundation-announces-20-btc-bounty-challenge-for-bitcoin-development</link>
-      <description><![CDATA[HRF比特币赏金挑战赛正式启动，总奖励池20 BTC，重点关注交易隐私和比特币自主主权发展。]]></description>
+      <description><![CDATA[HRF比特币赏金挑战赛已正式启动，总奖励池为20 BTC，重点关注交易隐私和比特币自主主权发展。]]></description>
       <guid>https://bitcoinmagazine.com/business/human-rights-foundation-announces-20-btc-bounty-challenge-for-bitcoin-development</guid>
       <pubDate>Thu, 27 Jul 2023 14:00:00 GMT</pubDate>
     </item>
@@ -333,27 +354,6 @@
       <description><![CDATA[作为一种优越的数字财富存储形式，比特币为房地产投资者提供了一种可以考虑的补充资产。]]></description>
       <guid>https://bitcoinmagazine.com/culture/why-real-estate-investors-should-have-bitcoin-strategies</guid>
       <pubDate>Wed, 26 Jul 2023 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Digital Shovel 推出 NanoPOD，一种紧凑高效的比特币挖矿解决方案</title>
-      <link>https://bitcoinmagazine.com/business/digital-shovel-unveils-nanopod-a-compact-and-efficient-bitcoin-mining-solution</link>
-      <description><![CDATA[Digital Shovel 推出 NanoPOD，紧凑型采矿解决方案彻底改变了中小型作业。]]></description>
-      <guid>https://bitcoinmagazine.com/business/digital-shovel-unveils-nanopod-a-compact-and-efficient-bitcoin-mining-solution</guid>
-      <pubDate>Tue, 25 Jul 2023 16:50:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>大学应该为学生提供比特币以提高参与度并增加价值</title>
-      <link>https://bitcoinmagazine.com/culture/universities-should-offer-bitcoin-bounties-to-students</link>
-      <description><![CDATA[随着大学参与度下降以及学生质疑高等教育的价值，纳入比特币奖励可能会有所帮助。]]></description>
-      <guid>https://bitcoinmagazine.com/culture/universities-should-offer-bitcoin-bounties-to-students</guid>
-      <pubDate>Tue, 25 Jul 2023 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国总统候选人小罗伯特·F·肯尼迪将在矿业颠覆比特币会议上发表讲话</title>
-      <link>https://bitcoinmagazine.com/industry-events/us-presidential-candidate-robert-f-kennedy-jr-to-speak-at-mining-disrupt-bitcoin-conference</link>
-      <description><![CDATA[Mining Disrupt 2023 重返迈阿密，有专家演讲者、顶级赞助商和广泛的交流机会。]]></description>
-      <guid>https://bitcoinmagazine.com/industry-events/us-presidential-candidate-robert-f-kennedy-jr-to-speak-at-mining-disrupt-bitcoin-conference</guid>
-      <pubDate>Mon, 24 Jul 2023 23:11:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
