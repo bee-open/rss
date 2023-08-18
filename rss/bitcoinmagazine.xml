@@ -4,7 +4,14 @@
     <title>比特币杂志 - 比特币新闻、文章和专家见解</title>
     <link>https://bitcoinmagazine.com</link>
     <description>《比特币杂志》成立于 2012 年，是有关比特币的最古老、最成熟的值得信赖的新闻、信息和思想领导力来源。</description>
-    <lastBuildDate>Fri, 18 Aug 2023 00:45:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Aug 2023 12:20:07 GMT</lastBuildDate>
+    <item>
+      <title>发现自由：与比特币爱好者的旅程</title>
+      <link>https://bitcoinmagazine.com/culture/preview-a-tour-of-thailand-designed-for-bitcoiners</link>
+      <description><![CDATA[比特币爱好者是一个由思想开放、欣赏主权的人们组成的社区，可以从泰国的冒险中成长起来。]]></description>
+      <guid>https://bitcoinmagazine.com/culture/preview-a-tour-of-thailand-designed-for-bitcoiners</guid>
+      <pubDate>Fri, 18 Aug 2023 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Trezor 扩展隐私功能，为 Trezor Model One 推出 Coinjoin</title>
       <link>https://bitcoinmagazine.com/business/trezor-expands-privacy-features-introduces-coinjoin-for-trezor-model-one</link>
@@ -78,7 +85,7 @@
     <item>
       <title>欧洲首只现货比特币 ETF 现已在阿姆斯特丹泛欧交易所上市</title>
       <link>https://bitcoinmagazine.com/markets/europes-first-spot-bitcoin-etf-now-listed-on-euronext-amsterdam</link>
-      <description><![CDATA[在美国证券交易委员会推迟批准现货比特币 ETF 的决定后不到一周，欧洲推出了第一个比特币 ETF。]]></description>
+      <description><![CDATA[在美国证券交易委员会推迟批准现货比特币 ETF 的决定后不到一周，欧洲就推出了第一个比特币 ETF。]]></description>
       <guid>https://bitcoinmagazine.com/markets/europes-first-spot-bitcoin-etf-now-listed-on-euronext-amsterdam</guid>
       <pubDate>Tue, 15 Aug 2023 12:05:22 GMT</pubDate>
     </item>
@@ -347,13 +354,6 @@
       <description><![CDATA[由于金融公司希望在即将到来的减半之前提供比特币产品，他们准备利用不断增长的需求。]]></description>
       <guid>https://bitcoinmagazine.com/markets/institutional-bitcoin-products-price-impact-ahead-of-halving</guid>
       <pubDate>Thu, 27 Jul 2023 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>房地产投资者应该考虑比特币的策略，比特币是一种高级财富储存手段</title>
-      <link>https://bitcoinmagazine.com/culture/why-real-estate-investors-should-have-bitcoin-strategies</link>
-      <description><![CDATA[作为一种优越的数字财富存储形式，比特币为房地产投资者提供了一种可以考虑的补充资产。]]></description>
-      <guid>https://bitcoinmagazine.com/culture/why-real-estate-investors-should-have-bitcoin-strategies</guid>
-      <pubDate>Wed, 26 Jul 2023 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
