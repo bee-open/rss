@@ -4,7 +4,14 @@
     <title>比特币杂志 - 比特币新闻、文章和专家见解</title>
     <link>https://bitcoinmagazine.com</link>
     <description>《比特币杂志》成立于 2012 年，是有关比特币的最古老、最成熟的值得信赖的新闻、信息和思想领导力来源。</description>
-    <lastBuildDate>Thu, 24 Aug 2023 00:52:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Aug 2023 12:20:11 GMT</lastBuildDate>
+    <item>
+      <title>交易轨道成为国家打击比特币叛乱的新前线</title>
+      <link>https://bitcoinmagazine.com/culture/bitcoin-must-become-a-medium-of-exchange-to-survive</link>
+      <description><![CDATA[随着国家认真打击金融隐私，比特币必须成为一种功能性的交易媒介，否则就会面临网络孤立的风险。]]></description>
+      <guid>https://bitcoinmagazine.com/culture/bitcoin-must-become-a-medium-of-exchange-to-survive</guid>
+      <pubDate>Thu, 24 Aug 2023 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>比特币 ATM 公司 ByteFederal 在澳大利亚正式成立</title>
       <link>https://bitcoinmagazine.com/business/bitcoin-atm-company-bytefederal-officially-launches-in-australia</link>
@@ -64,7 +71,7 @@
     <item>
       <title>发现自由：与比特币爱好者的旅程</title>
       <link>https://bitcoinmagazine.com/culture/preview-a-tour-of-thailand-designed-for-bitcoiners</link>
-      <description><![CDATA[比特币爱好者是一个由思想开放、欣赏主权的人们组成的社区，他们可以从泰国的冒险中成长起来。]]></description>
+      <description><![CDATA[比特币爱好者是一个由思想开放、欣赏主权的人们组成的社区，可以从泰国的冒险中成长起来。]]></description>
       <guid>https://bitcoinmagazine.com/culture/preview-a-tour-of-thailand-designed-for-bitcoiners</guid>
       <pubDate>Fri, 18 Aug 2023 12:00:00 GMT</pubDate>
     </item>
@@ -134,14 +141,14 @@
     <item>
       <title>Blockstream 推出“BASIC Note”以利用预期的 ASIC 市场复苏</title>
       <link>https://bitcoinmagazine.com/business/blockstream-banks-on-asic-market-recovery-with-basic-note</link>
-      <description><![CDATA[Blockstream 与 STOKR 合作，通过 Liquid 网络创建投资产品，旨在购买低价 ASIC 并在牛市期间转售。]]></description>
+      <description><![CDATA[Blockstream 与 STOKR 合作，通过 Liquid 网络创建投资产品，旨在购买低价 ASIC 以便在牛市期间转售。]]></description>
       <guid>https://bitcoinmagazine.com/business/blockstream-banks-on-asic-market-recovery-with-basic-note</guid>
       <pubDate>Tue, 15 Aug 2023 14:00:00 GMT</pubDate>
     </item>
     <item>
       <title>欧洲首只现货比特币 ETF 现已在阿姆斯特丹泛欧交易所上市</title>
       <link>https://bitcoinmagazine.com/markets/europes-first-spot-bitcoin-etf-now-listed-on-euronext-amsterdam</link>
-      <description><![CDATA[在美国证券交易委员会推迟批准现货比特币 ETF 的决定后不到一周，欧洲就推出了第一个比特币 ETF。]]></description>
+      <description><![CDATA[在美国证券交易委员会推迟批准现货比特币 ETF 的决定后不到一周，欧洲推出了第一个比特币 ETF。]]></description>
       <guid>https://bitcoinmagazine.com/markets/europes-first-spot-bitcoin-etf-now-listed-on-euronext-amsterdam</guid>
       <pubDate>Tue, 15 Aug 2023 12:05:22 GMT</pubDate>
     </item>
@@ -237,7 +244,7 @@
       <pubDate>Mon, 07 Aug 2023 12:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>除以 700 万：流行的比特币价格启发法没有达到预期目标</title>
+      <title>一切除以 700 万：流行的比特币价格启发法没有达到目标</title>
       <link>https://bitcoinmagazine.com/culture/the-factors-that-bitcoin-price-models-overlook</link>
       <description><![CDATA[一些最受欢迎的比特币价格预测工具低估了资本迁移的影响。]]></description>
       <guid>https://bitcoinmagazine.com/culture/the-factors-that-bitcoin-price-models-overlook</guid>
@@ -321,17 +328,17 @@
       <pubDate>Tue, 01 Aug 2023 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>比特币矿商 GDA 宣布开设三个新数据中心</title>
-      <link>https://bitcoinmagazine.com/business/bitcoin-miner-gda-announces-the-opening-of-three-new-data-centers</link>
-      <description><![CDATA[比特币挖矿公司 GDA 向南卡罗来纳州扩张，建立了新的环保数据中心。]]></description>
-      <guid>https://bitcoinmagazine.com/business/bitcoin-miner-gda-announces-the-opening-of-three-new-data-centers</guid>
-      <pubDate>Tue, 01 Aug 2023 13:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>通过比特币杂志买卖稀有比特币</title>
       <link>https://bitcoinmagazine.com/markets/buy-and-sell-rare-bitcoin-with-bitcoin-magazine</link>
       <description><![CDATA[比特币杂志为寻找市场上最稀有的比特币和铭文的收藏家和富裕投资者推出了白手套服务。]]></description>
       <guid>https://bitcoinmagazine.com/markets/buy-and-sell-rare-bitcoin-with-bitcoin-magazine</guid>
+      <pubDate>Tue, 01 Aug 2023 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>比特币矿商 GDA 宣布开设三个新数据中心</title>
+      <link>https://bitcoinmagazine.com/business/bitcoin-miner-gda-announces-the-opening-of-three-new-data-centers</link>
+      <description><![CDATA[比特币挖矿公司 GDA 向南卡罗来纳州扩张，建立了新的环保数据中心。]]></description>
+      <guid>https://bitcoinmagazine.com/business/bitcoin-miner-gda-announces-the-opening-of-three-new-data-centers</guid>
       <pubDate>Tue, 01 Aug 2023 13:00:00 GMT</pubDate>
     </item>
     <item>
@@ -347,13 +354,6 @@
       <description><![CDATA[Mash 的闪电比特币钱包是一款绕过应用商店看门人的渐进式网络应用程序，现已推出测试版。]]></description>
       <guid>https://bitcoinmagazine.com/business/mash-announces-lightning-bitcoin-wallet-app-for-android-ios-now-in-beta</guid>
       <pubDate>Tue, 01 Aug 2023 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>多哥活动家 Farida Nabourema 谈避免政府审查和“年轻人的比特币”</title>
-      <link>https://bitcoinmagazine.com/culture/togolese-activist-farida-nabourema-finds-freedom-in-bitcoin</link>
-      <description><![CDATA[多哥活动人士 Farida Nabourema 描述了比特币如何为生活在压迫政权下的人们提供财务自由。]]></description>
-      <guid>https://bitcoinmagazine.com/culture/togolese-activist-farida-nabourema-finds-freedom-in-bitcoin</guid>
-      <pubDate>Mon, 31 Jul 2023 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
