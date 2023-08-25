@@ -4,7 +4,28 @@
     <title>比特币杂志 - 比特币新闻、文章和专家见解</title>
     <link>https://bitcoinmagazine.com</link>
     <description>《比特币杂志》成立于 2012 年，是有关比特币的最古老、最成熟的值得信赖的新闻、信息和思想领导力来源。</description>
-    <lastBuildDate>Thu, 24 Aug 2023 12:20:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Aug 2023 00:50:30 GMT</lastBuildDate>
+    <item>
+      <title>CoinCorner 和 Lolly 合作推出比特币支付以及传统支付方式</title>
+      <link>https://bitcoinmagazine.com/business/coincorner-and-lolly-partner-to-introduce-bitcoin-payments-alongside-traditional-methods</link>
+      <description><![CDATA[现在，顾客可以在所有 Lolly 收银台和售货亭使用比特币以及传统现金和银行卡方式支付购买费用。]]></description>
+      <guid>https://bitcoinmagazine.com/business/coincorner-and-lolly-partner-to-introduce-bitcoin-payments-alongside-traditional-methods</guid>
+      <pubDate>Thu, 24 Aug 2023 20:38:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Blockstream核心闪电集成拼接功能</title>
+      <link>https://bitcoinmagazine.com/business/blockstreams-core-lightning-integrates-splicing-feature</link>
+      <description><![CDATA[新功能使闪电通道的流动性发生变化，解决了围绕交易吞吐量和流动性限制的历史痛点。]]></description>
+      <guid>https://bitcoinmagazine.com/business/blockstreams-core-lightning-integrates-splicing-feature</guid>
+      <pubDate>Thu, 24 Aug 2023 17:38:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>股东运动在灰度诉讼中争取收回客户比特币</title>
+      <link>https://bitcoinmagazine.com/legal/grayscale-lawsuit-fights-to-reclaim-customer-bitcoin</link>
+      <description><![CDATA[灰度因涉嫌灰度比特币信托管理不当以及利益冲突而面临诉讼。邀请股东参与此案。]]></description>
+      <guid>https://bitcoinmagazine.com/legal/grayscale-lawsuit-fights-to-reclaim-customer-bitcoin</guid>
+      <pubDate>Thu, 24 Aug 2023 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>交易轨道成为国家打击比特币叛乱的新前线</title>
       <link>https://bitcoinmagazine.com/culture/bitcoin-must-become-a-medium-of-exchange-to-survive</link>
@@ -333,27 +354,6 @@
       <description><![CDATA[比特币杂志为寻找市场上最稀有的比特币和铭文的收藏家和富裕投资者推出了白手套服务。]]></description>
       <guid>https://bitcoinmagazine.com/markets/buy-and-sell-rare-bitcoin-with-bitcoin-magazine</guid>
       <pubDate>Tue, 01 Aug 2023 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>比特币矿商 GDA 宣布开设三个新数据中心</title>
-      <link>https://bitcoinmagazine.com/business/bitcoin-miner-gda-announces-the-opening-of-three-new-data-centers</link>
-      <description><![CDATA[比特币挖矿公司 GDA 向南卡罗来纳州扩张，建立了新的环保数据中心。]]></description>
-      <guid>https://bitcoinmagazine.com/business/bitcoin-miner-gda-announces-the-opening-of-three-new-data-centers</guid>
-      <pubDate>Tue, 01 Aug 2023 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>武术解放：比特币与卡波耶拉并肩作战</title>
-      <link>https://bitcoinmagazine.com/culture/the-parallels-between-bitcoin-and-capoeira</link>
-      <description><![CDATA[巴西黑人自卫风格的卡波耶拉结合了解放和纪律，对于任何对比特币感兴趣的人来说都是一种崇高的追求。]]></description>
-      <guid>https://bitcoinmagazine.com/culture/the-parallels-between-bitcoin-and-capoeira</guid>
-      <pubDate>Tue, 01 Aug 2023 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mash 宣布适用于 Android 和 iOS 的闪电比特币钱包应用程序现已进入测试阶段</title>
-      <link>https://bitcoinmagazine.com/business/mash-announces-lightning-bitcoin-wallet-app-for-android-ios-now-in-beta</link>
-      <description><![CDATA[Mash 的闪电比特币钱包是一款绕过应用商店看门人的渐进式网络应用程序，现已推出测试版。]]></description>
-      <guid>https://bitcoinmagazine.com/business/mash-announces-lightning-bitcoin-wallet-app-for-android-ios-now-in-beta</guid>
-      <pubDate>Tue, 01 Aug 2023 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
