@@ -4,7 +4,21 @@
     <title>比特币杂志 - 比特币新闻、文章和专家见解</title>
     <link>https://bitcoinmagazine.com</link>
     <description>《比特币杂志》成立于 2012 年，是有关比特币的最古老、最成熟的值得信赖的新闻、信息和思想领导力来源。</description>
-    <lastBuildDate>Fri, 25 Aug 2023 12:16:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Aug 2023 00:48:24 GMT</lastBuildDate>
+    <item>
+      <title>Milk Sad 漏洞及其对比特币的意义</title>
+      <link>https://bitcoinmagazine.com/technical/the-milk-sad-vulnerability-and-what-it-means-for-bitcoin</link>
+      <description><![CDATA[在《比特币杂志》的最新一集中“比特币解释”中，主持人 Aaron van Wirdum 和 Sjors Provoost 讨论了新发现的名为“Milk Sad”的漏洞的后果，该漏洞影响了试图在连接到 . ..]]></description>
+      <guid>https://bitcoinmagazine.com/technical/the-milk-sad-vulnerability-and-what-it-means-for-bitcoin</guid>
+      <pubDate>Fri, 25 Aug 2023 16:27:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国财政部和国税局提议对经纪人的比特币和加密货币交易进行监管</title>
+      <link>https://bitcoinmagazine.com/markets/us-treasury-and-irs-propose-regulations-on-bitcoin-crypto-transactions-by-brokers</link>
+      <description><![CDATA[拟议的规则要求数字资产经纪人遵守严格的税务报告标准。]]></description>
+      <guid>https://bitcoinmagazine.com/markets/us-treasury-and-irs-propose-regulations-on-bitcoin-crypto-transactions-by-brokers</guid>
+      <pubDate>Fri, 25 Aug 2023 14:13:11 GMT</pubDate>
+    </item>
     <item>
       <title>为什么创造者经济需要以比特币为基础运行</title>
       <link>https://bitcoinmagazine.com/culture/why-the-creator-economy-needs-to-run-on-bitcoin</link>
@@ -340,20 +354,6 @@
       <description><![CDATA[近一半的美国人表示他们厌倦了政治二分法，现在是比特币支持者走中间道路的时候了。]]></description>
       <guid>https://bitcoinmagazine.com/culture/bitcoin-needs-the-support-of-political-independents</guid>
       <pubDate>Wed, 02 Aug 2023 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>开放序数研究所推出推动比特币序数协议</title>
-      <link>https://bitcoinmagazine.com/culture/non-profit-institute-launches-to-propel-bitcoin-ordinals</link>
-      <description><![CDATA[Ordinals 团队成立了非营利组织 Open Ordinals Institute，以推动协议的发展并支持其核心开发人员。]]></description>
-      <guid>https://bitcoinmagazine.com/culture/non-profit-institute-launches-to-propel-bitcoin-ordinals</guid>
-      <pubDate>Tue, 01 Aug 2023 18:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>比特币市场动态：链上趋势和已实现市值</title>
-      <link>https://bitcoinmagazine.com/markets/bitcoin-market-dynamics-on-chain-trends</link>
-      <description><![CDATA[使用链上数据分析具体指标可以让投资者更仔细地了解市场趋势以及它们与历史案例的关系。]]></description>
-      <guid>https://bitcoinmagazine.com/markets/bitcoin-market-dynamics-on-chain-trends</guid>
-      <pubDate>Tue, 01 Aug 2023 14:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
