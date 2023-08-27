@@ -4,7 +4,28 @@
     <title>Cointelegraph.com 新闻</title>
     <link>https://cointelegraph.com</link>
     <description>Cointelegraph 涵盖金融科技、区块链和比特币，为您带来最新的加密货币新闻和对货币未来的分析。</description>
-    <lastBuildDate>Sun, 27 Aug 2023 00:58:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Aug 2023 12:22:03 GMT</lastBuildDate>
+    <item>
+      <title>由于 Kroll 网络泄露担忧，FTX 暂停用户账户</title>
+      <link>https://cointelegraph.com/news/ftx-suspends-user-accounts-amid-kroll-cyber-breach-concerns</link>
+      <description><![CDATA[FTX 做出了决定作为预防近期黑客攻击后任何潜在未来事件或额外伤害的主动措施。]]></description>
+      <guid>https://cointelegraph.com/news/ftx-suspends-user-accounts-amid-kroll-cyber-breach-concerns</guid>
+      <pubDate>Sun, 27 Aug 2023 06:59:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>加密货币社区对拜登提出的加密货币税务报告规则做出反应</title>
+      <link>https://cointelegraph.com/news/crypto-community-biden-crypto-tax-reporting-rules</link>
+      <description><![CDATA[许多著名的加密货币评论员担心这将使加密货币公司更不愿意在美国开展业务。]]></description>
+      <guid>https://cointelegraph.com/news/crypto-community-biden-crypto-tax-reporting-rules</guid>
+      <pubDate>Sun, 27 Aug 2023 06:01:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tether 首席技术官对比特币挖矿地点保持沉默</title>
+      <link>https://cointelegraph.com/news/tether-cto-paolo-ardoino-bitcoin-mining-locations</link>
+      <description><![CDATA[Tether 首席技术官保罗·阿尔多伊诺 (Paolo Ardoino) 暗示业务总部位于南美，但不愿透露更多细节。]]></description>
+      <guid>https://cointelegraph.com/news/tether-cto-paolo-ardoino-bitcoin-mining-locations</guid>
+      <pubDate>Sun, 27 Aug 2023 02:14:41 GMT</pubDate>
+    </item>
     <item>
       <title>Sam Bankman-Fried 的牢狱生活、Tornado Cash 的动荡以及价值 30 亿美元的 BTC 巨鲸：Hodler’s Digest，8 月 20 日至 26 日</title>
       <link>https://cointelegraph.com/magazine/sam-bankman-frieds-life-in-jail-tornado-cashs-turmoil-and-a-3b-btc-whale-hodlers-digest-aug-20-26/</link>
@@ -15,7 +36,7 @@
     <item>
       <title>摩根大通预测加密货币市场的下行空间有限：报告</title>
       <link>https://cointelegraph.com/news/jpmorgan-forecasts-limited-downside-crypto-markets</link>
-      <description><![CDATA[摩根大通分析师认为比特币未平仓合约下降表明当前价格趋势可能正在减弱。]]></description>
+      <description><![CDATA[摩根大通分析师认为比特币未平仓合约下降表明当前价格趋势可能减弱。]]></description>
       <guid>https://cointelegraph.com/news/jpmorgan-forecasts-limited-downside-crypto-markets</guid>
       <pubDate>Sat, 26 Aug 2023 20:08:43 GMT</pubDate>
     </item>
@@ -27,7 +48,7 @@
       <pubDate>Sat, 26 Aug 2023 17:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>法官将听取 Sam Bankman-Fried 对 400 万页新公布证据的辩护</title>
+      <title>法官将听取 Sam Bankman-Fried 针对 400 万页新证据的辩护</title>
       <link>https://cointelegraph.com/news/judge-hear-sam-bankman-fried-defense-against-4m-pages-evidence</link>
       <description><![CDATA[刘易斯·卡普兰法官下令政府回应班克曼-弗里德关于适当获取发现材料的建议，以及禁止检察官使用新证据的要求。 ]]></description>
       <guid>https://cointelegraph.com/news/judge-hear-sam-bankman-fried-defense-against-4m-pages-evidence</guid>
@@ -71,12 +92,12 @@
     <item>
       <title>DYdX 创始人：加密货币建设者应该“放弃”为美国客户服务 5-10 年</title>
       <link>https://cointelegraph.com/news/crypto-builders-should-stop-serving-us-customers-for-5-to-10-years</link>
-      <description><![CDATA[dYdX创始人认为早期的加密项目可以通过不服务美国客户来更快地扩展，因为它们不必处理美国监管环境的麻烦。]]></description>
+      <description><![CDATA[dYdX创始人认为早期加密项目可以通过不服务美国客户来更快地扩展规模，因为它们不必处理美国监管环境的麻烦。]]></description>
       <guid>https://cointelegraph.com/news/crypto-builders-should-stop-serving-us-customers-for-5-to-10-years</guid>
       <pubDate>Sat, 26 Aug 2023 02:50:46 GMT</pubDate>
     </item>
     <item>
-      <title>萨姆·班克曼·弗里德的律师呼吁暂时释放，反对检察官提出的交易</title>
+      <title>萨姆·班克曼-弗里德的律师呼吁暂时释放，反对检察官提出的交易</title>
       <link>https://cointelegraph.com/news/sam-bankman-fried-lawyers-push-temporary-release-object-prosecutors-proposed-deal</link>
       <description><![CDATA[美国司法部制作了与 SBF 刑事案件相关的“数百万页文件”，他的律师声称这些文件太多，无法在审判前从监狱中获取。]]></description>
       <guid>https://cointelegraph.com/news/sam-bankman-fried-lawyers-push-temporary-release-object-prosecutors-proposed-deal</guid>
@@ -193,27 +214,6 @@
       <description><![CDATA[交易如下同一头鲸鱼之前在 6 月 5 日进行的交易，当时他们花费 280 以太币（价值 507,000 美元）收购了 5000 亿个 PEPE。]]></description>
       <guid>https://cointelegraph.com/news/pepe-whale-seizes-dip-opportunity-buys-529k-worth-of-tokens</guid>
       <pubDate>Fri, 25 Aug 2023 13:43:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>学术界对 ChatGPT 的左翼政治偏见主张存在分歧</title>
-      <link>https://cointelegraph.com/news/chat-gpt-academia-divided-over-chat-gpt-left-political-bias-claims</link>
-      <description><![CDATA[学术界分为研究声称 ChatGPT 在不同司法管辖区表现出政治偏见。 ]]></description>
-      <guid>https://cointelegraph.com/news/chat-gpt-academia-divided-over-chat-gpt-left-political-bias-claims</guid>
-      <pubDate>Fri, 25 Aug 2023 13:39:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>温月？比特币减半周期暗示第四季度，聪明的钱“相信谣言”</title>
-      <link>https://cointelegraph.com/news/bitcoin-halving-q4-smart-money-buy-btc-price</link>
-      <description><![CDATA[比特币矿工和 &quot; Filbfilb 表示，在 2023 年末 BTC 价格走势方面，“聪明的钱”是值得关注的投资者群体。]]></description>
-      <guid>https://cointelegraph.com/news/bitcoin-halving-q4-smart-money-buy-btc-price</guid>
-      <pubDate>Fri, 25 Aug 2023 13:31:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>NFT 收藏家：巨型天鹅的哥特式 VR 梦境……OpenSea 上的皇室噩梦</title>
-      <link>https://cointelegraph.com/magazine/nft-creator-giant-swan-gothic-vr-dreamscapes-royalty-nightmare-opensea/</link>
-      <description><![CDATA[墨尔本 NFT 艺术家 Giant Swan 曾经因为不适应环境而坐在车里哭泣。现在，他在哥特式 VR 梦想中找到了自己的位置创建者]]></description>
-      <guid>https://cointelegraph.com/magazine/nft-creator-giant-swan-gothic-vr-dreamscapes-royalty-nightmare-opensea/</guid>
-      <pubDate>Fri, 25 Aug 2023 13:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
