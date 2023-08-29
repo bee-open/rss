@@ -4,7 +4,21 @@
     <title>比特币杂志 - 比特币新闻、文章和专家见解</title>
     <link>https://bitcoinmagazine.com</link>
     <description>《比特币杂志》成立于 2012 年，是有关比特币的最古老、最成熟的值得信赖的新闻、信息和思想领导力来源。</description>
-    <lastBuildDate>Mon, 28 Aug 2023 12:20:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Aug 2023 00:53:31 GMT</lastBuildDate>
+    <item>
+      <title>Chainaanalysis 调查负责人“不知道”监控软件有效的科学证据</title>
+      <link>https://bitcoinmagazine.com/technical/chainalysis-investigations-lead-is-unaware-of-scientific-evidence</link>
+      <description><![CDATA[著名律师托尔·埃克兰 (Tor Ekeland) 通过在 Chainaanalysis 的取证中找出漏洞，在美国政府针对所谓的比特币雾创造者罗曼·斯特林戈夫 (Roman Sterlingov) 的案件中找出漏洞。]]></description>
+      <guid>https://bitcoinmagazine.com/technical/chainalysis-investigations-lead-is-unaware-of-scientific-evidence</guid>
+      <pubDate>Mon, 28 Aug 2023 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>最新的比特币杂志现已发售</title>
+      <link>https://bitcoinmagazine.com/culture/q2-2023-print-bitcoin-magazine-now-on-sale</link>
+      <description><![CDATA[在供应用完之前购买新的印刷版《比特币杂志》。]]></description>
+      <guid>https://bitcoinmagazine.com/culture/q2-2023-print-bitcoin-magazine-now-on-sale</guid>
+      <pubDate>Mon, 28 Aug 2023 13:57:50 GMT</pubDate>
+    </item>
     <item>
       <title>我在前南斯拉夫的生活是如何让我接触到比特币的</title>
       <link>https://bitcoinmagazine.com/culture/how-my-life-in-the-former-yugoslavia-led-me-to-bitcoin</link>
@@ -22,7 +36,7 @@
     <item>
       <title>Milk Sad 漏洞及其对比特币的意义</title>
       <link>https://bitcoinmagazine.com/technical/the-milk-sad-vulnerability-and-what-it-means-for-bitcoin</link>
-      <description><![CDATA[在《比特币杂志》的最新一集中“比特币解释”中，主持人 Aaron van Wirdum 和 Sjors Provoost 讨论了新发现的名为“Milk Sad”的漏洞的后果，该漏洞影响了试图在连接到 . ..]]></description>
+      <description><![CDATA[在《比特币解释》第 83 集中，主持人 Aaron 和 Sjors 讨论了 Libitcoin 库中名为“BX Seed”的不安全比特币库命令的问题。]]></description>
       <guid>https://bitcoinmagazine.com/technical/the-milk-sad-vulnerability-and-what-it-means-for-bitcoin</guid>
       <pubDate>Fri, 25 Aug 2023 16:27:01 GMT</pubDate>
     </item>
@@ -57,7 +71,7 @@
     <item>
       <title>股东运动在灰度诉讼中争取收回客户比特币</title>
       <link>https://bitcoinmagazine.com/legal/grayscale-lawsuit-fights-to-reclaim-customer-bitcoin</link>
-      <description><![CDATA[灰度因涉嫌灰度比特币信托管理不当以及利益冲突而面临诉讼。邀请股东参与此案。]]></description>
+      <description><![CDATA[灰度因涉嫌灰度比特币信托管理不善以及利益冲突而面临诉讼。邀请股东参与此案。]]></description>
       <guid>https://bitcoinmagazine.com/legal/grayscale-lawsuit-fights-to-reclaim-customer-bitcoin</guid>
       <pubDate>Thu, 24 Aug 2023 13:00:00 GMT</pubDate>
     </item>
@@ -113,7 +127,7 @@
     <item>
       <title>Nodal Power 获得 1300 万美元种子轮融资，推动垃圾填埋场可再生能源转型</title>
       <link>https://bitcoinmagazine.com/business/nodal-power-secures-13-million-seed-round-to-drive-renewable-energy-transformation-at-landfills</link>
-      <description><![CDATA[Nodal Power 获得 1300 万美元用于减少垃圾填埋场甲烷、产生可再生能源并为创新数据中心提供电力。]]></description>
+      <description><![CDATA[Nodal Power 获得 1300 万美元用于减少垃圾填埋场甲烷、生产可再生能源并为创新数据中心提供电力。]]></description>
       <guid>https://bitcoinmagazine.com/business/nodal-power-secures-13-million-seed-round-to-drive-renewable-energy-transformation-at-landfills</guid>
       <pubDate>Mon, 21 Aug 2023 12:00:00 GMT</pubDate>
     </item>
@@ -127,7 +141,7 @@
     <item>
       <title>发现自由：与比特币爱好者的旅程</title>
       <link>https://bitcoinmagazine.com/culture/preview-a-tour-of-thailand-designed-for-bitcoiners</link>
-      <description><![CDATA[比特币爱好者是一个由思想开放、欣赏主权的人们组成的社区，可以从泰国的冒险中成长起来。]]></description>
+      <description><![CDATA[比特币爱好者是一个由思想开放、欣赏主权的人们组成的社区，他们可以从泰国的冒险中成长起来。]]></description>
       <guid>https://bitcoinmagazine.com/culture/preview-a-tour-of-thailand-designed-for-bitcoiners</guid>
       <pubDate>Fri, 18 Aug 2023 12:00:00 GMT</pubDate>
     </item>
@@ -139,7 +153,7 @@
       <pubDate>Thu, 17 Aug 2023 16:25:29 GMT</pubDate>
     </item>
     <item>
-      <title>比特币杂志书籍宣布新书发布：吉米·宋（Jimmy Song）撰写的《菲亚特毁掉一切》</title>
+      <title>比特币杂志书籍宣布新书：吉米·宋（Jimmy Song）撰写的《菲亚特毁掉一切》</title>
       <link>https://bitcoinmagazine.com/bitcoin-books/bitcoin-magazine-books-releases-fiat-ruins-everything</link>
       <description><![CDATA[比特币杂志图书在其不断壮大的阵容中增加了一位新作者。本标题探讨了各种形式的法币贬值以及比特币如何带来一线希望。]]></description>
       <guid>https://bitcoinmagazine.com/bitcoin-books/bitcoin-magazine-books-releases-fiat-ruins-everything</guid>
@@ -197,7 +211,7 @@
     <item>
       <title>Blockstream 推出“BASIC Note”以利用预期的 ASIC 市场复苏</title>
       <link>https://bitcoinmagazine.com/business/blockstream-banks-on-asic-market-recovery-with-basic-note</link>
-      <description><![CDATA[Blockstream 与 STOKR 合作，通过 Liquid 网络创建投资产品，旨在购买低价 ASIC 以便在牛市期间转售。]]></description>
+      <description><![CDATA[Blockstream 与 STOKR 合作，通过 Liquid 网络创建投资产品，旨在购买低价 ASIC 并在牛市期间转售。]]></description>
       <guid>https://bitcoinmagazine.com/business/blockstream-banks-on-asic-market-recovery-with-basic-note</guid>
       <pubDate>Tue, 15 Aug 2023 14:00:00 GMT</pubDate>
     </item>
@@ -340,20 +354,6 @@
       <description><![CDATA[首席技术官 Paolo Ardoino 向《比特币杂志》证实，USDT 稳定币背后的公司上季度在其资产负债表中增加了价值 4500 万美元的比特币。]]></description>
       <guid>https://bitcoinmagazine.com/markets/exclusive-tether-purchased-1529-bitcoin-in-q2-cto-confirms</guid>
       <pubDate>Thu, 03 Aug 2023 13:47:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过拥抱比特币，我最喜欢的音乐节可以帮助确保其长期未来</title>
-      <link>https://bitcoinmagazine.com/culture/glastonbury-festival-needs-bitcoin-to-help-secure-its-future</link>
-      <description><![CDATA[在参加格拉斯顿伯里音乐节多年后，一位英国比特币爱好者认为，现在是这个旗舰活动拥抱去中心化革命的时候了。]]></description>
-      <guid>https://bitcoinmagazine.com/culture/glastonbury-festival-needs-bitcoin-to-help-secure-its-future</guid>
-      <pubDate>Thu, 03 Aug 2023 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是比特币 ETF？</title>
-      <link>https://bitcoinmagazine.com/guides/what-is-a-bitcoin-etf</link>
-      <description><![CDATA[比特币交易所交易基金（ETF）旨在跟踪公开交易的比特币矿业公司的基础资产或指数的表现。]]></description>
-      <guid>https://bitcoinmagazine.com/guides/what-is-a-bitcoin-etf</guid>
-      <pubDate>Wed, 02 Aug 2023 14:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
