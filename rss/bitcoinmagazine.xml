@@ -4,7 +4,7 @@
     <title>比特币杂志 - 比特币新闻、文章和专家见解</title>
     <link>https://bitcoinmagazine.com</link>
     <description>《比特币杂志》成立于 2012 年，是有关比特币的最古老、最成熟的值得信赖的新闻、信息和思想领导力来源。</description>
-    <lastBuildDate>Thu, 31 Aug 2023 00:46:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 31 Aug 2023 12:20:23 GMT</lastBuildDate>
     <item>
       <title>彭博社分析师：现货比特币 ETF 今年推出的可能性为 75%</title>
       <link>https://bitcoinmagazine.com/markets/bloomberg-analysts-spot-bitcoin-etfs-now-have-75-odds-of-launching-this-year</link>
@@ -15,7 +15,7 @@
     <item>
       <title>30,000 个比特币以每个 0.03 美元的价格出售，现价值 8 亿美元</title>
       <link>https://bitcoinmagazine.com/markets/30000-bitcoins-sold-for-0-03-each</link>
-      <description><![CDATA[《比特币杂志》回顾了比特币市场历史上最糟糕的销售之一——2010 年，有人在市场上以每枚仅 0.03 美元的价格出售了 30,000 枚比特币。]]></description>
+      <description><![CDATA[《比特币杂志》回顾了比特币市场历史上最糟糕的销售之一——2010 年，有人在市场上仅以每枚 0.03 美元的价格出售了 30,000 枚比特币。]]></description>
       <guid>https://bitcoinmagazine.com/markets/30000-bitcoins-sold-for-0-03-each</guid>
       <pubDate>Wed, 30 Aug 2023 14:45:45 GMT</pubDate>
     </item>
@@ -27,7 +27,7 @@
       <pubDate>Wed, 30 Aug 2023 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>X (Twitter) 获得存储、转移和交易比特币和加密货币的许可</title>
+      <title>X (Twitter) 获得存储、转移和交易比特币和加密货币的许可证</title>
       <link>https://bitcoinmagazine.com/business/x-twitter-obtains-license-to-store-transfer-and-trade-bitcoin-and-crypto</link>
       <description><![CDATA[该许可证还包括相关服务提供商，例如钱包、支付处理器和交易所。]]></description>
       <guid>https://bitcoinmagazine.com/business/x-twitter-obtains-license-to-store-transfer-and-trade-bitcoin-and-crypto</guid>
@@ -113,7 +113,7 @@
     <item>
       <title>股东运动在灰度诉讼中争取收回客户比特币</title>
       <link>https://bitcoinmagazine.com/legal/grayscale-lawsuit-fights-to-reclaim-customer-bitcoin</link>
-      <description><![CDATA[灰度因涉嫌灰度比特币信托管理不善以及利益冲突而面临诉讼。邀请股东参与此案。]]></description>
+      <description><![CDATA[灰度因涉嫌灰度比特币信托管理不当以及利益冲突而面临诉讼。邀请股东参与此案。]]></description>
       <guid>https://bitcoinmagazine.com/legal/grayscale-lawsuit-fights-to-reclaim-customer-bitcoin</guid>
       <pubDate>Thu, 24 Aug 2023 13:00:00 GMT</pubDate>
     </item>
@@ -167,6 +167,13 @@
       <pubDate>Mon, 21 Aug 2023 13:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>Nodal Power 获得 1300 万美元种子轮融资，推动垃圾填埋场可再生能源转型</title>
+      <link>https://bitcoinmagazine.com/business/nodal-power-secures-13-million-seed-round-to-drive-renewable-energy-transformation-at-landfills</link>
+      <description><![CDATA[Nodal Power 获得 1300 万美元用于减少垃圾填埋场甲烷、产生可再生能源并为创新数据中心提供电力。]]></description>
+      <guid>https://bitcoinmagazine.com/business/nodal-power-secures-13-million-seed-round-to-drive-renewable-energy-transformation-at-landfills</guid>
+      <pubDate>Mon, 21 Aug 2023 12:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Nostr 确保未来的免费互联网</title>
       <link>https://bitcoinmagazine.com/culture/how-nostr-breaks-the-vicious-cycles-of-social-media</link>
       <description><![CDATA[Nostr 是一种新兴的开源工具，可以确保自由通信而不受大型科技公司或政府的审查。]]></description>
@@ -174,16 +181,9 @@
       <pubDate>Mon, 21 Aug 2023 12:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Nodal Power 获得 1300 万美元种子轮融资，推动垃圾填埋场可再生能源转型</title>
-      <link>https://bitcoinmagazine.com/business/nodal-power-secures-13-million-seed-round-to-drive-renewable-energy-transformation-at-landfills</link>
-      <description><![CDATA[Nodal Power 获得 1300 万美元用于减少垃圾填埋场甲烷、生产可再生能源并为创新数据中心提供电力。]]></description>
-      <guid>https://bitcoinmagazine.com/business/nodal-power-secures-13-million-seed-round-to-drive-renewable-energy-transformation-at-landfills</guid>
-      <pubDate>Mon, 21 Aug 2023 12:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>发现自由：与比特币爱好者的旅程</title>
       <link>https://bitcoinmagazine.com/culture/preview-a-tour-of-thailand-designed-for-bitcoiners</link>
-      <description><![CDATA[比特币爱好者是一个由思想开放、欣赏主权的人们组成的社区，他们可以从泰国的冒险中成长起来。]]></description>
+      <description><![CDATA[比特币爱好者是一个由思想开放、欣赏主权的人们组成的社区，可以从泰国的冒险中成长起来。]]></description>
       <guid>https://bitcoinmagazine.com/culture/preview-a-tour-of-thailand-designed-for-bitcoiners</guid>
       <pubDate>Fri, 18 Aug 2023 12:00:00 GMT</pubDate>
     </item>
@@ -195,7 +195,7 @@
       <pubDate>Thu, 17 Aug 2023 16:25:29 GMT</pubDate>
     </item>
     <item>
-      <title>比特币杂志书籍宣布新书：吉米·宋（Jimmy Song）撰写的《菲亚特毁掉一切》</title>
+      <title>比特币杂志书籍宣布新书发布：吉米·宋（Jimmy Song）撰写的《菲亚特毁掉一切》</title>
       <link>https://bitcoinmagazine.com/bitcoin-books/bitcoin-magazine-books-releases-fiat-ruins-everything</link>
       <description><![CDATA[比特币杂志图书在其不断壮大的阵容中增加了一位新作者。本标题探讨了各种形式的法币贬值以及比特币如何带来一线希望。]]></description>
       <guid>https://bitcoinmagazine.com/bitcoin-books/bitcoin-magazine-books-releases-fiat-ruins-everything</guid>
@@ -253,7 +253,7 @@
     <item>
       <title>Blockstream 推出“BASIC Note”以利用预期的 ASIC 市场复苏</title>
       <link>https://bitcoinmagazine.com/business/blockstream-banks-on-asic-market-recovery-with-basic-note</link>
-      <description><![CDATA[Blockstream 与 STOKR 合作，通过 Liquid 网络创建投资产品，旨在购买低价 ASIC 并在牛市期间转售。]]></description>
+      <description><![CDATA[Blockstream 与 STOKR 合作，通过 Liquid 网络创建投资产品，旨在购买低价 ASIC 以便在牛市期间转售。]]></description>
       <guid>https://bitcoinmagazine.com/business/blockstream-banks-on-asic-market-recovery-with-basic-note</guid>
       <pubDate>Tue, 15 Aug 2023 14:00:00 GMT</pubDate>
     </item>
@@ -281,7 +281,7 @@
     <item>
       <title>比特币前沿基金推出革命性序数加速器</title>
       <link>https://bitcoinmagazine.com/business/bitcoin-frontier-fund-debuts-first-ordinals-accelerator</link>
-      <description><![CDATA[比特币前沿基金推出了以 Ordinals 为中心的先驱加速器，旨在推动生态系统的发展并促进比特币的采用。]]></description>
+      <description><![CDATA[比特币前沿基金推出了以 Ordinals 为中心的先锋加速器，旨在推动生态系统的发展并促进比特币的采用。]]></description>
       <guid>https://bitcoinmagazine.com/business/bitcoin-frontier-fund-debuts-first-ordinals-accelerator</guid>
       <pubDate>Mon, 14 Aug 2023 14:30:00 GMT</pubDate>
     </item>
@@ -293,7 +293,7 @@
       <pubDate>Mon, 14 Aug 2023 12:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>人类行为，而非政治行为：个人在比特币革命中的角色</title>
+      <title>人类行动，而非政治行动：个人在比特币革命中的角色</title>
       <link>https://bitcoinmagazine.com/culture/us-presidential-support-for-bitcoin-wont-be-enough</link>
       <description><![CDATA[“政治承诺变革，但通过集权进行强制。我们必须超越这种幻想，在体制之外采取行动。”]]></description>
       <guid>https://bitcoinmagazine.com/culture/us-presidential-support-for-bitcoin-wont-be-enough</guid>
