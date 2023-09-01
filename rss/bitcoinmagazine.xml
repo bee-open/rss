@@ -4,7 +4,28 @@
     <title>比特币杂志 - 比特币新闻、文章和专家见解</title>
     <link>https://bitcoinmagazine.com</link>
     <description>《比特币杂志》成立于 2012 年，是有关比特币的最古老、最成熟的值得信赖的新闻、信息和思想领导力来源。</description>
-    <lastBuildDate>Thu, 31 Aug 2023 12:20:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Sep 2023 00:53:44 GMT</lastBuildDate>
+    <item>
+      <title>美国证券交易委员会 (SEC) 推迟贝莱德 (BlackRock)、富达 (Fidelity) 等公司的现货比特币 ETF 申请</title>
+      <link>https://bitcoinmagazine.com/markets/sec-delays-blackrock-fidelity-and-others-spot-bitcoin-etf-applications</link>
+      <description><![CDATA[SEC 刚刚将这些申请再推迟 45 天，将下一个截止日期推迟到 10 月中旬。]]></description>
+      <guid>https://bitcoinmagazine.com/markets/sec-delays-blackrock-fidelity-and-others-spot-bitcoin-etf-applications</guid>
+      <pubDate>Thu, 31 Aug 2023 21:31:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chainaanalysis，区块链取证的 Theranos？</title>
+      <link>https://bitcoinmagazine.com/technical/chainalysis-the-theranos-of-blockchain-forensics</link>
+      <description><![CDATA[越来越多的证据表明，Chainaanalysis 的区块链取证启发法可能更像是一种骗局，而不是一门科学。]]></description>
+      <guid>https://bitcoinmagazine.com/technical/chainalysis-the-theranos-of-blockchain-forensics</guid>
+      <pubDate>Thu, 31 Aug 2023 17:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>比特币杂志将最新印刷版的封面题为递归序数</title>
+      <link>https://bitcoinmagazine.com/culture/bitcoin-magazine-print-cover-recursive-ordinal-inscription</link>
+      <description><![CDATA[《比特币杂志》利用最先进的递归技术和 Ordinals 将其最新印刷杂志的封面刻在了比特币区块链上。]]></description>
+      <guid>https://bitcoinmagazine.com/culture/bitcoin-magazine-print-cover-recursive-ordinal-inscription</guid>
+      <pubDate>Thu, 31 Aug 2023 14:08:59 GMT</pubDate>
+    </item>
     <item>
       <title>彭博社分析师：现货比特币 ETF 今年推出的可能性为 75%</title>
       <link>https://bitcoinmagazine.com/markets/bloomberg-analysts-spot-bitcoin-etfs-now-have-75-odds-of-launching-this-year</link>
@@ -333,27 +354,6 @@
       <description><![CDATA[致力于构建更加“基础”的语言模型。]]></description>
       <guid>https://bitcoinmagazine.com/culture/how-to-build-your-own-bitcoin-language-model</guid>
       <pubDate>Wed, 09 Aug 2023 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bitrefill 为比特币和加密货币旅行者提供覆盖 140 个国家/地区的全球 eSIM 服务</title>
-      <link>https://bitcoinmagazine.com/business/bitrefill-empowers-bitcoin-crypto-travelers-with-global-esim-service-across-140-countries</link>
-      <description><![CDATA[领先的加密电子商务平台与 eSIM Go 合作，彻底改变了数字游民的连接方式。]]></description>
-      <guid>https://bitcoinmagazine.com/business/bitrefill-empowers-bitcoin-crypto-travelers-with-global-esim-service-across-140-countries</guid>
-      <pubDate>Tue, 08 Aug 2023 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>依赖汇款且没有银行账户的菲律宾需要比特币的闪电网络</title>
-      <link>https://bitcoinmagazine.com/culture/bitcoin-lightning-network-will-transform-the-philippines</link>
-      <description><![CDATA[随着主要的加密货币交易所整合比特币闪电网络，菲律宾的商家也应该效仿。]]></description>
-      <guid>https://bitcoinmagazine.com/culture/bitcoin-lightning-network-will-transform-the-philippines</guid>
-      <pubDate>Tue, 08 Aug 2023 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>UTXOracle：解决 Oracle 问题的去中心化方法</title>
-      <link>https://bitcoinmagazine.com/technical/utxoracle-model-could-bring-use-cases-to-bitcoin</link>
-      <description><![CDATA[使用UTXO集来计算比特币价格。]]></description>
-      <guid>https://bitcoinmagazine.com/technical/utxoracle-model-could-bring-use-cases-to-bitcoin</guid>
-      <pubDate>Mon, 07 Aug 2023 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
