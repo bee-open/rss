@@ -4,7 +4,7 @@
     <title>比特币杂志 - 比特币新闻、文章和专家见解</title>
     <link>https://bitcoinmagazine.com</link>
     <description>《比特币杂志》成立于 2012 年，是有关比特币的最古老、最成熟的值得信赖的新闻、信息和思想领导力来源。</description>
-    <lastBuildDate>Tue, 05 Sep 2023 00:50:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Sep 2023 12:22:07 GMT</lastBuildDate>
     <item>
       <title>比特币最高主义者对序数的颂歌</title>
       <link>https://bitcoinmagazine.com/culture/a-bitcoin-maximalists-ode-to-ordinals</link>
@@ -20,14 +20,14 @@
       <pubDate>Thu, 31 Aug 2023 21:31:30 GMT</pubDate>
     </item>
     <item>
-      <title>Chainaanalysis，区块链取证领域的 Theranos？</title>
+      <title>Chainaanalysis，区块链取证的 Theranos？</title>
       <link>https://bitcoinmagazine.com/technical/chainalysis-the-theranos-of-blockchain-forensics</link>
       <description><![CDATA[越来越多的证据表明，Chainaanalysis 的区块链取证启发法可能更像是一种骗局，而不是一门科学。]]></description>
       <guid>https://bitcoinmagazine.com/technical/chainalysis-the-theranos-of-blockchain-forensics</guid>
       <pubDate>Thu, 31 Aug 2023 17:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>比特币杂志将最新印刷版的封面题为递归序数</title>
+      <title>比特币杂志将最新印刷版的封面列为递归序数</title>
       <link>https://bitcoinmagazine.com/culture/bitcoin-magazine-print-cover-recursive-ordinal-inscription</link>
       <description><![CDATA[《比特币杂志》利用最先进的递归技术和 Ordinals 将其最新印刷杂志的封面刻在了比特币区块链上。]]></description>
       <guid>https://bitcoinmagazine.com/culture/bitcoin-magazine-print-cover-recursive-ordinal-inscription</guid>
@@ -43,7 +43,7 @@
     <item>
       <title>30,000 个比特币以每个 0.03 美元的价格出售，现价值 8 亿美元</title>
       <link>https://bitcoinmagazine.com/markets/30000-bitcoins-sold-for-0-03-each</link>
-      <description><![CDATA[《比特币杂志》回顾了比特币市场历史上最糟糕的销售之一——2010 年，有人在市场上以每枚仅 0.03 美元的价格出售了 30,000 枚比特币。]]></description>
+      <description><![CDATA[《比特币杂志》回顾了比特币市场历史上最糟糕的销售之一——2010 年，有人在市场上仅以每枚 0.03 美元的价格出售了 30,000 枚比特币。]]></description>
       <guid>https://bitcoinmagazine.com/markets/30000-bitcoins-sold-for-0-03-each</guid>
       <pubDate>Wed, 30 Aug 2023 14:45:45 GMT</pubDate>
     </item>
@@ -76,7 +76,7 @@
       <pubDate>Tue, 29 Aug 2023 12:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Chainaanalysis 调查负责人“不知道”监控软件工作的科学证据</title>
+      <title>Chainaanalysis 调查负责人“不知道”监控软件有效的科学证据</title>
       <link>https://bitcoinmagazine.com/technical/chainalysis-investigations-lead-is-unaware-of-scientific-evidence</link>
       <description><![CDATA[著名律师托尔·埃克兰 (Tor Ekeland) 通过在 Chainaanalysis 的取证中找出漏洞，在美国政府针对比特币雾创始人罗曼·斯特林戈夫 (Roman Sterlingov) 的案件中找出漏洞。]]></description>
       <guid>https://bitcoinmagazine.com/technical/chainalysis-investigations-lead-is-unaware-of-scientific-evidence</guid>
@@ -85,7 +85,7 @@
     <item>
       <title>最新的比特币杂志现已发售</title>
       <link>https://bitcoinmagazine.com/culture/q2-2023-print-bitcoin-magazine-now-on-sale</link>
-      <description><![CDATA[在供应耗尽之前购买新的印刷版《比特币杂志》。]]></description>
+      <description><![CDATA[在供应用完之前购买新的印刷版《比特币杂志》。]]></description>
       <guid>https://bitcoinmagazine.com/culture/q2-2023-print-bitcoin-magazine-now-on-sale</guid>
       <pubDate>Mon, 28 Aug 2023 13:57:50 GMT</pubDate>
     </item>
@@ -148,7 +148,7 @@
     <item>
       <title>交易轨道成为国家打击比特币叛乱的新前线</title>
       <link>https://bitcoinmagazine.com/culture/bitcoin-must-become-a-medium-of-exchange-to-survive</link>
-      <description><![CDATA[随着国家认真打击金融隐私，比特币必须成为一种功能性的交换媒介，否则就会面临网络孤立的风险。]]></description>
+      <description><![CDATA[随着国家认真打击金融隐私，比特币必须成为一种功能性的交易媒介，否则就会面临网络孤立的风险。]]></description>
       <guid>https://bitcoinmagazine.com/culture/bitcoin-must-become-a-medium-of-exchange-to-survive</guid>
       <pubDate>Thu, 24 Aug 2023 12:00:00 GMT</pubDate>
     </item>
@@ -197,7 +197,7 @@
     <item>
       <title>Nodal Power 获得 1300 万美元种子轮融资，推动垃圾填埋场可再生能源转型</title>
       <link>https://bitcoinmagazine.com/business/nodal-power-secures-13-million-seed-round-to-drive-renewable-energy-transformation-at-landfills</link>
-      <description><![CDATA[Nodal Power 获得 1300 万美元用于减少垃圾填埋场甲烷、产生可再生能源并为创新数据中心提供电力。]]></description>
+      <description><![CDATA[Nodal Power 获得 1300 万美元用于减少垃圾填埋场甲烷、生产可再生能源并为创新数据中心提供电力。]]></description>
       <guid>https://bitcoinmagazine.com/business/nodal-power-secures-13-million-seed-round-to-drive-renewable-energy-transformation-at-landfills</guid>
       <pubDate>Mon, 21 Aug 2023 12:00:00 GMT</pubDate>
     </item>
@@ -211,7 +211,7 @@
     <item>
       <title>发现自由：与比特币爱好者的旅程</title>
       <link>https://bitcoinmagazine.com/culture/preview-a-tour-of-thailand-designed-for-bitcoiners</link>
-      <description><![CDATA[比特币爱好者是一个由思想开放、欣赏主权的人们组成的社区，可以从泰国的冒险中成长起来。]]></description>
+      <description><![CDATA[比特币爱好者是一个由思想开放、欣赏主权的人们组成的社区，他们可以从泰国的冒险中成长起来。]]></description>
       <guid>https://bitcoinmagazine.com/culture/preview-a-tour-of-thailand-designed-for-bitcoiners</guid>
       <pubDate>Fri, 18 Aug 2023 12:00:00 GMT</pubDate>
     </item>
@@ -223,7 +223,7 @@
       <pubDate>Thu, 17 Aug 2023 16:25:29 GMT</pubDate>
     </item>
     <item>
-      <title>比特币杂志书籍宣布新书：吉米·宋（Jimmy Song）撰写的《菲亚特毁掉一切》</title>
+      <title>比特币杂志书籍宣布新书发布：吉米·宋（Jimmy Song）撰写的《菲亚特毁掉一切》</title>
       <link>https://bitcoinmagazine.com/bitcoin-books/bitcoin-magazine-books-releases-fiat-ruins-everything</link>
       <description><![CDATA[比特币杂志图书在其不断壮大的阵容中增加了一位新作者。本标题探讨了各种形式的法币贬值以及比特币如何带来一线希望。]]></description>
       <guid>https://bitcoinmagazine.com/bitcoin-books/bitcoin-magazine-books-releases-fiat-ruins-everything</guid>
@@ -288,7 +288,7 @@
     <item>
       <title>欧洲首只现货比特币 ETF 现已在阿姆斯特丹泛欧交易所上市</title>
       <link>https://bitcoinmagazine.com/markets/europes-first-spot-bitcoin-etf-now-listed-on-euronext-amsterdam</link>
-      <description><![CDATA[在美国证券交易委员会推迟批准现货比特币 ETF 的决定后不到一周，欧洲就推出了第一个比特币 ETF。]]></description>
+      <description><![CDATA[在美国证券交易委员会推迟批准现货比特币 ETF 的决定后不到一周，欧洲推出了第一个比特币 ETF。]]></description>
       <guid>https://bitcoinmagazine.com/markets/europes-first-spot-bitcoin-etf-now-listed-on-euronext-amsterdam</guid>
       <pubDate>Tue, 15 Aug 2023 12:05:22 GMT</pubDate>
     </item>
