@@ -4,11 +4,32 @@
     <title>比特币杂志 - 比特币新闻、文章和专家见解</title>
     <link>https://bitcoinmagazine.com</link>
     <description>《比特币杂志》成立于 2012 年，是有关比特币的最古老、最成熟的值得信赖的新闻、信息和思想领导力来源。</description>
-    <lastBuildDate>Tue, 05 Sep 2023 12:22:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Sep 2023 00:53:21 GMT</lastBuildDate>
+    <item>
+      <title>科罗拉多州 DMV 现在接受通过 PayPal 进行比特币支付</title>
+      <link>https://bitcoinmagazine.com/business/colorado-dmv-now-accepts-bitcoin-payments-via-paypal</link>
+      <description><![CDATA[截至目前，PayPal 是唯一接受 DMV 在线支付的加密货币提供商。]]></description>
+      <guid>https://bitcoinmagazine.com/business/colorado-dmv-now-accepts-bitcoin-payments-via-paypal</guid>
+      <pubDate>Tue, 05 Sep 2023 15:49:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Drivechains 如何为比特币引入新的激励动力</title>
+      <link>https://bitcoinmagazine.com/technical/drivechains-introduce-new-incentive-dynamics-to-bitcoin</link>
+      <description><![CDATA[比特币杂志技术编辑 Shinobi 写道，激活算力托管与盲目合并挖矿相结合不可避免地会降低性能。]]></description>
+      <guid>https://bitcoinmagazine.com/technical/drivechains-introduce-new-incentive-dynamics-to-bitcoin</guid>
+      <pubDate>Tue, 05 Sep 2023 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shinobi 加入比特币杂志担任技术编辑</title>
+      <link>https://bitcoinmagazine.com/business/shinobi-joins-bitcoin-magazine-technical-editor</link>
+      <description><![CDATA[比特币隐私研究员 Shinobi 将加入《比特币杂志》担任技术编辑。]]></description>
+      <guid>https://bitcoinmagazine.com/business/shinobi-joins-bitcoin-magazine-technical-editor</guid>
+      <pubDate>Tue, 05 Sep 2023 13:15:29 GMT</pubDate>
+    </item>
     <item>
       <title>比特币最高主义者对序数的颂歌</title>
       <link>https://bitcoinmagazine.com/culture/a-bitcoin-maximalists-ode-to-ordinals</link>
-      <description><![CDATA[序号是比特币的天然伴侣，它释放了前所未有的机遇，并进一步证明了比特币相对于其他区块链的优越性。]]></description>
+      <description><![CDATA[序数是比特币的天然伴侣，它释放了前所未有的机遇，并进一步证明了比特币相对于其他区块链的优越性。]]></description>
       <guid>https://bitcoinmagazine.com/culture/a-bitcoin-maximalists-ode-to-ordinals</guid>
       <pubDate>Fri, 01 Sep 2023 17:30:00 GMT</pubDate>
     </item>
@@ -27,9 +48,9 @@
       <pubDate>Thu, 31 Aug 2023 17:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>比特币杂志将最新印刷版的封面列为递归序数</title>
+      <title>比特币杂志将最新印刷版的封面题为递归序数</title>
       <link>https://bitcoinmagazine.com/culture/bitcoin-magazine-print-cover-recursive-ordinal-inscription</link>
-      <description><![CDATA[《比特币杂志》利用最先进的递归技术和 Ordinals 将其最新印刷杂志的封面刻在了比特币区块链上。]]></description>
+      <description><![CDATA[《比特币杂志》利用序数递归将其最新印刷杂志的封面刻在了比特币区块链上。]]></description>
       <guid>https://bitcoinmagazine.com/culture/bitcoin-magazine-print-cover-recursive-ordinal-inscription</guid>
       <pubDate>Thu, 31 Aug 2023 14:08:59 GMT</pubDate>
     </item>
@@ -76,7 +97,7 @@
       <pubDate>Tue, 29 Aug 2023 12:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Chainaanalysis 调查负责人“不知道”监控软件有效的科学证据</title>
+      <title>Chainaanalysis 调查负责人“不知道”监控软件工作的科学证据</title>
       <link>https://bitcoinmagazine.com/technical/chainalysis-investigations-lead-is-unaware-of-scientific-evidence</link>
       <description><![CDATA[著名律师托尔·埃克兰 (Tor Ekeland) 通过在 Chainaanalysis 的取证中找出漏洞，在美国政府针对比特币雾创始人罗曼·斯特林戈夫 (Roman Sterlingov) 的案件中找出漏洞。]]></description>
       <guid>https://bitcoinmagazine.com/technical/chainalysis-investigations-lead-is-unaware-of-scientific-evidence</guid>
@@ -118,7 +139,7 @@
       <pubDate>Fri, 25 Aug 2023 14:13:11 GMT</pubDate>
     </item>
     <item>
-      <title>为什么创造者经济需要以比特币为基础</title>
+      <title>为什么创造者经济需要以比特币为基础运行</title>
       <link>https://bitcoinmagazine.com/culture/why-the-creator-economy-needs-to-run-on-bitcoin</link>
       <description><![CDATA[守门人打破了内容创作者的在线货币化。幸运的是，比特币提供了一种让创作者及其受众都受益的解决方案。]]></description>
       <guid>https://bitcoinmagazine.com/culture/why-the-creator-economy-needs-to-run-on-bitcoin</guid>
@@ -197,7 +218,7 @@
     <item>
       <title>Nodal Power 获得 1300 万美元种子轮融资，推动垃圾填埋场可再生能源转型</title>
       <link>https://bitcoinmagazine.com/business/nodal-power-secures-13-million-seed-round-to-drive-renewable-energy-transformation-at-landfills</link>
-      <description><![CDATA[Nodal Power 获得 1300 万美元用于减少垃圾填埋场甲烷、生产可再生能源并为创新数据中心提供电力。]]></description>
+      <description><![CDATA[Nodal Power 获得 1300 万美元用于减少垃圾填埋场甲烷、产生可再生能源并为创新数据中心提供电力。]]></description>
       <guid>https://bitcoinmagazine.com/business/nodal-power-secures-13-million-seed-round-to-drive-renewable-energy-transformation-at-landfills</guid>
       <pubDate>Mon, 21 Aug 2023 12:00:00 GMT</pubDate>
     </item>
@@ -211,7 +232,7 @@
     <item>
       <title>发现自由：与比特币爱好者的旅程</title>
       <link>https://bitcoinmagazine.com/culture/preview-a-tour-of-thailand-designed-for-bitcoiners</link>
-      <description><![CDATA[比特币爱好者是一个由思想开放、欣赏主权的人们组成的社区，他们可以从泰国的冒险中成长起来。]]></description>
+      <description><![CDATA[比特币爱好者是一个由思想开放、欣赏主权的人们组成的社区，可以从泰国的冒险中成长起来。]]></description>
       <guid>https://bitcoinmagazine.com/culture/preview-a-tour-of-thailand-designed-for-bitcoiners</guid>
       <pubDate>Fri, 18 Aug 2023 12:00:00 GMT</pubDate>
     </item>
@@ -288,7 +309,7 @@
     <item>
       <title>欧洲首只现货比特币 ETF 现已在阿姆斯特丹泛欧交易所上市</title>
       <link>https://bitcoinmagazine.com/markets/europes-first-spot-bitcoin-etf-now-listed-on-euronext-amsterdam</link>
-      <description><![CDATA[在美国证券交易委员会推迟批准现货比特币 ETF 的决定后不到一周，欧洲推出了第一个比特币 ETF。]]></description>
+      <description><![CDATA[在美国证券交易委员会推迟批准现货比特币 ETF 的决定后不到一周，欧洲就推出了第一个比特币 ETF。]]></description>
       <guid>https://bitcoinmagazine.com/markets/europes-first-spot-bitcoin-etf-now-listed-on-euronext-amsterdam</guid>
       <pubDate>Tue, 15 Aug 2023 12:05:22 GMT</pubDate>
     </item>
@@ -309,7 +330,7 @@
     <item>
       <title>比特币前沿基金推出革命性序数加速器</title>
       <link>https://bitcoinmagazine.com/business/bitcoin-frontier-fund-debuts-first-ordinals-accelerator</link>
-      <description><![CDATA[比特币前沿基金推出了以 Ordinals 为中心的先驱加速器，旨在推动生态系统的发展并促进比特币的采用。]]></description>
+      <description><![CDATA[比特币前沿基金推出了以 Ordinals 为中心的先锋加速器，旨在推动生态系统的发展并促进比特币的采用。]]></description>
       <guid>https://bitcoinmagazine.com/business/bitcoin-frontier-fund-debuts-first-ordinals-accelerator</guid>
       <pubDate>Mon, 14 Aug 2023 14:30:00 GMT</pubDate>
     </item>
@@ -333,27 +354,6 @@
       <description><![CDATA[SEC 对该申请的下一次决定日期定于今年 11 月。]]></description>
       <guid>https://bitcoinmagazine.com/markets/sec-delays-ark-invest-and-21-shares-spot-bitcoin-etf-application</guid>
       <pubDate>Fri, 11 Aug 2023 15:57:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>比特币能否成为我们减少失控甲烷排放的最佳机会？</title>
-      <link>https://bitcoinmagazine.com/culture/bitcoin-is-the-best-way-to-mitigate-runaway-methane-emissions</link>
-      <description><![CDATA[一位环保主义者和气候技术投资者讲述了他的个人发现，即比特币是我们拯救地球最强大的工具。]]></description>
-      <guid>https://bitcoinmagazine.com/culture/bitcoin-is-the-best-way-to-mitigate-runaway-methane-emissions</guid>
-      <pubDate>Fri, 11 Aug 2023 14:10:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>比特币钱包 Xverse 获得由 Jump Crypto 领投的 500 万美元种子资金</title>
-      <link>https://bitcoinmagazine.com/business/bitcoin-wallet-xverse-secures-5-million-seed-funding-led-by-jump-crypto</link>
-      <description><![CDATA[比特币钱包 Xverse 获得了 500 万美元的资金，旨在加速 Ordinals 和扩展解决方案的高级功能。]]></description>
-      <guid>https://bitcoinmagazine.com/business/bitcoin-wallet-xverse-secures-5-million-seed-funding-led-by-jump-crypto</guid>
-      <pubDate>Thu, 10 Aug 2023 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>贝莱德 vs.比特币 Maxis：BTC 是货币还是价值储存手段？</title>
-      <link>https://bitcoinmagazine.com/culture/is-bitcoin-money-or-a-store-of-value</link>
-      <description><![CDATA[随着贝莱德等金融机构纷纷拥抱以比特币为中心的金融产品，他们是否错过了比特币作为货币的潜力？]]></description>
-      <guid>https://bitcoinmagazine.com/culture/is-bitcoin-money-or-a-store-of-value</guid>
-      <pubDate>Thu, 10 Aug 2023 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
