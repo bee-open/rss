@@ -4,7 +4,42 @@
     <title>比特币杂志 - 比特币新闻、文章和专家见解</title>
     <link>https://bitcoinmagazine.com</link>
     <description>《比特币杂志》成立于 2012 年，是有关比特币的最古老、最成熟的值得信赖的新闻、信息和思想领导力来源。</description>
-    <lastBuildDate>Wed, 06 Sep 2023 12:16:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Sep 2023 00:52:29 GMT</lastBuildDate>
+    <item>
+      <title>FASB 投票支持比特币公允价值会计</title>
+      <link>https://bitcoinmagazine.com/markets/fasb-votes-in-favor-of-fair-value-accounting-for-bitcoin</link>
+      <description><![CDATA[这些规则最早将于 2025 年生效，但企业可以在此之前更早应用它们。]]></description>
+      <guid>https://bitcoinmagazine.com/markets/fasb-votes-in-favor-of-fair-value-accounting-for-bitcoin</guid>
+      <pubDate>Wed, 06 Sep 2023 16:55:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>等待确认：Bitcoin Optech 关于 Mempool 和政策的系列</title>
+      <link>https://bitcoinmagazine.com/technical/waiting-for-confirmation-bitcoin-optechs-series-on-mempool-and-policy</link>
+      <description><![CDATA[比特币 Optech 系列的 10 部分摘要，描述了比特币节点内存池的内部运作以及管理它们的规则和激励措施。]]></description>
+      <guid>https://bitcoinmagazine.com/technical/waiting-for-confirmation-bitcoin-optechs-series-on-mempool-and-policy</guid>
+      <pubDate>Wed, 06 Sep 2023 15:37:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>英国慈善机构大北方空中救护车接受比特币捐赠</title>
+      <link>https://bitcoinmagazine.com/business/uk-charity-the-great-north-air-ambulance-services-partners-with-coincorner-to-accept-bitcoin-donations-</link>
+      <description><![CDATA[此次合作使 GNAAS 成为英国首批接受比特币捐赠的空中救护服务之一。]]></description>
+      <guid>https://bitcoinmagazine.com/business/uk-charity-the-great-north-air-ambulance-services-partners-with-coincorner-to-accept-bitcoin-donations-</guid>
+      <pubDate>Wed, 06 Sep 2023 14:57:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>自克鲁格曼驳斥其价格为 7 美元以来，比特币上涨了 365,999%</title>
+      <link>https://bitcoinmagazine.com/markets/bitcoin-price-365999-economist-krugman-dismissed-it-7-dollars</link>
+      <description><![CDATA[克鲁格曼对 7 美元比特币的否定提醒人们，革命性技术具有重塑世界的潜力。]]></description>
+      <guid>https://bitcoinmagazine.com/markets/bitcoin-price-365999-economist-krugman-dismissed-it-7-dollars</guid>
+      <pubDate>Wed, 06 Sep 2023 14:55:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Valkyrie CIO 预测 2024 年第一季度美国比特币 ETF</title>
+      <link>https://bitcoinmagazine.com/markets/valkyrie-cio-bitcoin-spot-etf-q1-2024</link>
+      <description><![CDATA[Valkyrie Investments 首席信息官 Steven McClurg 预测，比特币 ETF 在 10 月份获得批准的可能性为“50%”，这是此类基金最早能够通过 SEC 评估的时间。]]></description>
+      <guid>https://bitcoinmagazine.com/markets/valkyrie-cio-bitcoin-spot-etf-q1-2024</guid>
+      <pubDate>Wed, 06 Sep 2023 12:35:45 GMT</pubDate>
+    </item>
     <item>
       <title>科罗拉多州 DMV 现在接受通过 PayPal 进行比特币支付</title>
       <link>https://bitcoinmagazine.com/business/colorado-dmv-now-accepts-bitcoin-payments-via-paypal</link>
@@ -64,7 +99,7 @@
     <item>
       <title>30,000 个比特币以每个 0.03 美元的价格出售，现价值 8 亿美元</title>
       <link>https://bitcoinmagazine.com/markets/30000-bitcoins-sold-for-0-03-each</link>
-      <description><![CDATA[《比特币杂志》回顾了比特币市场历史上最糟糕的销售之一——2010 年，有人在市场上仅以每枚 0.03 美元的价格出售了 30,000 枚比特币。]]></description>
+      <description><![CDATA[《比特币杂志》回顾了比特币市场历史上最糟糕的销售之一——2010 年，有人在市场上以每枚仅 0.03 美元的价格出售了 30,000 枚比特币。]]></description>
       <guid>https://bitcoinmagazine.com/markets/30000-bitcoins-sold-for-0-03-each</guid>
       <pubDate>Wed, 30 Aug 2023 14:45:45 GMT</pubDate>
     </item>
@@ -319,41 +354,6 @@
       <description><![CDATA[巩固金融权力的新立法努力和对比特币用户的法律攻击表明开发隐私工具的必要性。]]></description>
       <guid>https://bitcoinmagazine.com/culture/state-sponsored-attacks-on-bitcoin-privacy-are-growing</guid>
       <pubDate>Tue, 15 Aug 2023 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Orange Pill 应用程序获得 25 万美元的种子前资金，以塑造比特币社交层</title>
-      <link>https://bitcoinmagazine.com/business/orange-pill-app-secures-250k-in-pre-seed-funding-to-shape-the-bitcoin-social-layer</link>
-      <description><![CDATA[Orange Pill App 获得了 25 万美元的种子前资金，以开拓现实世界的比特币连接。]]></description>
-      <guid>https://bitcoinmagazine.com/business/orange-pill-app-secures-250k-in-pre-seed-funding-to-shape-the-bitcoin-social-layer</guid>
-      <pubDate>Mon, 14 Aug 2023 20:39:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>比特币前沿基金推出革命性序数加速器</title>
-      <link>https://bitcoinmagazine.com/business/bitcoin-frontier-fund-debuts-first-ordinals-accelerator</link>
-      <description><![CDATA[比特币前沿基金推出了以 Ordinals 为中心的先锋加速器，旨在推动生态系统的发展并促进比特币的采用。]]></description>
-      <guid>https://bitcoinmagazine.com/business/bitcoin-frontier-fund-debuts-first-ordinals-accelerator</guid>
-      <pubDate>Mon, 14 Aug 2023 14:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>CBDC：货币的终极腐败</title>
-      <link>https://bitcoinmagazine.com/culture/cbdcs-are-the-ultimate-corruption-of-money</link>
-      <description><![CDATA[央行数字货币（CBDC）将进一步腐蚀法定货币，削弱购买力并加强审查。]]></description>
-      <guid>https://bitcoinmagazine.com/culture/cbdcs-are-the-ultimate-corruption-of-money</guid>
-      <pubDate>Mon, 14 Aug 2023 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>人类行动，而非政治行动：个人在比特币革命中的角色</title>
-      <link>https://bitcoinmagazine.com/culture/us-presidential-support-for-bitcoin-wont-be-enough</link>
-      <description><![CDATA[“政治承诺变革，但通过集权进行强制。我们必须超越这种幻想，在体制之外采取行动。”]]></description>
-      <guid>https://bitcoinmagazine.com/culture/us-presidential-support-for-bitcoin-wont-be-enough</guid>
-      <pubDate>Sun, 13 Aug 2023 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>SEC 推迟 ARK Invest 和 21 股现货比特币 ETF 申请</title>
-      <link>https://bitcoinmagazine.com/markets/sec-delays-ark-invest-and-21-shares-spot-bitcoin-etf-application</link>
-      <description><![CDATA[SEC 对该申请的下一次决定日期定于今年 11 月。]]></description>
-      <guid>https://bitcoinmagazine.com/markets/sec-delays-ark-invest-and-21-shares-spot-bitcoin-etf-application</guid>
-      <pubDate>Fri, 11 Aug 2023 15:57:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
