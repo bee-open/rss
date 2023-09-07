@@ -4,7 +4,21 @@
     <title>比特币杂志 - 比特币新闻、文章和专家见解</title>
     <link>https://bitcoinmagazine.com</link>
     <description>《比特币杂志》成立于 2012 年，是有关比特币的最古老、最成熟的值得信赖的新闻、信息和思想领导力来源。</description>
-    <lastBuildDate>Thu, 07 Sep 2023 00:52:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Sep 2023 12:15:50 GMT</lastBuildDate>
+    <item>
+      <title>OnChainMonkey 花费超过 100 万美元将 NFT 迁移到比特币</title>
+      <link>https://bitcoinmagazine.com/culture/onchainmonkey-1-million-migrate-nfts-to-bitcoin</link>
+      <description><![CDATA[一个流行的以太坊 NFT 项目花费了 100 万美元的费用，将其收藏品转移到比特币区块链上。]]></description>
+      <guid>https://bitcoinmagazine.com/culture/onchainmonkey-1-million-migrate-nfts-to-bitcoin</guid>
+      <pubDate>Thu, 07 Sep 2023 11:54:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>萨尔瓦多纪念比特币法定货币法两周年</title>
+      <link>https://bitcoinmagazine.com/el-salvador-bitcoin-news/el-salvador-second-anniversary-bitcoin-legal-tender-law</link>
+      <description><![CDATA[到目前为止，到 2023 年，萨尔瓦多已经推出了一系列举措，旨在加强对其两年前正式颁布的比特币法定货币法的支持。]]></description>
+      <guid>https://bitcoinmagazine.com/el-salvador-bitcoin-news/el-salvador-second-anniversary-bitcoin-legal-tender-law</guid>
+      <pubDate>Thu, 07 Sep 2023 10:40:54 GMT</pubDate>
+    </item>
     <item>
       <title>FASB 投票支持比特币公允价值会计</title>
       <link>https://bitcoinmagazine.com/markets/fasb-votes-in-favor-of-fair-value-accounting-for-bitcoin</link>
@@ -13,7 +27,7 @@
       <pubDate>Wed, 06 Sep 2023 16:55:34 GMT</pubDate>
     </item>
     <item>
-      <title>等待确认：Bitcoin Optech 关于 Mempool 和政策的系列</title>
+      <title>等待确认：Bitcoin Optech 关于 Mempool 和政策的系列文章</title>
       <link>https://bitcoinmagazine.com/technical/waiting-for-confirmation-bitcoin-optechs-series-on-mempool-and-policy</link>
       <description><![CDATA[比特币 Optech 系列的 10 部分摘要，描述了比特币节点内存池的内部运作以及管理它们的规则和激励措施。]]></description>
       <guid>https://bitcoinmagazine.com/technical/waiting-for-confirmation-bitcoin-optechs-series-on-mempool-and-policy</guid>
@@ -36,12 +50,12 @@
     <item>
       <title>Valkyrie CIO 预测 2024 年第一季度美国比特币 ETF</title>
       <link>https://bitcoinmagazine.com/markets/valkyrie-cio-bitcoin-spot-etf-q1-2024</link>
-      <description><![CDATA[Valkyrie Investments 首席信息官 Steven McClurg 预测，比特币 ETF 在 10 月份获得批准的可能性为“50%”，这是此类基金最早能够通过 SEC 评估的时间。]]></description>
+      <description><![CDATA[Valkyrie Investments 的首席信息官 Steven McClurg 预测，比特币 ETF 在 10 月份获得批准的可能性为“50%”，这是此类基金通过 SEC 评估的最早时间。]]></description>
       <guid>https://bitcoinmagazine.com/markets/valkyrie-cio-bitcoin-spot-etf-q1-2024</guid>
       <pubDate>Wed, 06 Sep 2023 12:35:45 GMT</pubDate>
     </item>
     <item>
-      <title>科罗拉多州 DMV 现在接受通过 PayPal 进行比特币支付</title>
+      <title>科罗拉多州 DMV 现在接受通过 PayPal 进行比特币付款</title>
       <link>https://bitcoinmagazine.com/business/colorado-dmv-now-accepts-bitcoin-payments-via-paypal</link>
       <description><![CDATA[截至目前，PayPal 是唯一接受 DMV 在线支付的加密货币提供商。]]></description>
       <guid>https://bitcoinmagazine.com/business/colorado-dmv-now-accepts-bitcoin-payments-via-paypal</guid>
@@ -76,7 +90,7 @@
       <pubDate>Thu, 31 Aug 2023 21:31:30 GMT</pubDate>
     </item>
     <item>
-      <title>Chainaanalysis，区块链取证的 Theranos？</title>
+      <title>Chainaanalysis，区块链取证领域的 Theranos？</title>
       <link>https://bitcoinmagazine.com/technical/chainalysis-the-theranos-of-blockchain-forensics</link>
       <description><![CDATA[越来越多的证据表明，Chainaanalysis 的区块链取证启发法可能更像是一种骗局，而不是一门科学。]]></description>
       <guid>https://bitcoinmagazine.com/technical/chainalysis-the-theranos-of-blockchain-forensics</guid>
@@ -99,7 +113,7 @@
     <item>
       <title>30,000 个比特币以每个 0.03 美元的价格出售，现价值 8 亿美元</title>
       <link>https://bitcoinmagazine.com/markets/30000-bitcoins-sold-for-0-03-each</link>
-      <description><![CDATA[《比特币杂志》回顾了比特币市场历史上最糟糕的销售之一——2010 年，有人在市场上以每枚仅 0.03 美元的价格出售了 30,000 枚比特币。]]></description>
+      <description><![CDATA[《比特币杂志》回顾了比特币市场历史上最糟糕的销售之一——2010 年，有人在市场上仅以每枚 0.03 美元的价格出售了 30,000 枚比特币。]]></description>
       <guid>https://bitcoinmagazine.com/markets/30000-bitcoins-sold-for-0-03-each</guid>
       <pubDate>Wed, 30 Aug 2023 14:45:45 GMT</pubDate>
     </item>
@@ -111,7 +125,7 @@
       <pubDate>Wed, 30 Aug 2023 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>X (Twitter) 获得存储、转移和交易比特币和加密货币的许可证</title>
+      <title>X (Twitter) 获得存储、转移和交易比特币和加密货币的许可</title>
       <link>https://bitcoinmagazine.com/business/x-twitter-obtains-license-to-store-transfer-and-trade-bitcoin-and-crypto</link>
       <description><![CDATA[该许可证还包括相关服务提供商，例如钱包、支付处理器和交易所。]]></description>
       <guid>https://bitcoinmagazine.com/business/x-twitter-obtains-license-to-store-transfer-and-trade-bitcoin-and-crypto</guid>
@@ -132,16 +146,16 @@
       <pubDate>Tue, 29 Aug 2023 12:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Chainaanalysis 调查负责人“不知道”监控软件工作的科学证据</title>
+      <title>Chainaanalysis 调查负责人“不知道”监控软件有效的科学证据</title>
       <link>https://bitcoinmagazine.com/technical/chainalysis-investigations-lead-is-unaware-of-scientific-evidence</link>
-      <description><![CDATA[著名律师托尔·埃克兰 (Tor Ekeland) 通过在 Chainaanalysis 的取证中找出漏洞，在美国政府针对比特币雾创始人罗曼·斯特林戈夫 (Roman Sterlingov) 的案件中找出漏洞。]]></description>
+      <description><![CDATA[著名律师托尔·埃克兰 (Tor Ekeland) 通过在 Chainaanalysis 的取证中找出漏洞，在美国政府针对所谓的比特币雾创造者罗曼·斯特林戈夫 (Roman Sterlingov) 的案件中找出漏洞。]]></description>
       <guid>https://bitcoinmagazine.com/technical/chainalysis-investigations-lead-is-unaware-of-scientific-evidence</guid>
       <pubDate>Mon, 28 Aug 2023 15:00:00 GMT</pubDate>
     </item>
     <item>
       <title>最新的比特币杂志现已发售</title>
       <link>https://bitcoinmagazine.com/culture/q2-2023-print-bitcoin-magazine-now-on-sale</link>
-      <description><![CDATA[在供应用完之前购买新的印刷版《比特币杂志》。]]></description>
+      <description><![CDATA[在供应耗尽之前购买新的印刷版《比特币杂志》。]]></description>
       <guid>https://bitcoinmagazine.com/culture/q2-2023-print-bitcoin-magazine-now-on-sale</guid>
       <pubDate>Mon, 28 Aug 2023 13:57:50 GMT</pubDate>
     </item>
@@ -174,7 +188,7 @@
       <pubDate>Fri, 25 Aug 2023 14:13:11 GMT</pubDate>
     </item>
     <item>
-      <title>为什么创造者经济需要以比特币为基础运行</title>
+      <title>为什么创造者经济需要以比特币为基础</title>
       <link>https://bitcoinmagazine.com/culture/why-the-creator-economy-needs-to-run-on-bitcoin</link>
       <description><![CDATA[守门人打破了内容创作者的在线货币化。幸运的是，比特币提供了一种让创作者及其受众都受益的解决方案。]]></description>
       <guid>https://bitcoinmagazine.com/culture/why-the-creator-economy-needs-to-run-on-bitcoin</guid>
@@ -204,7 +218,7 @@
     <item>
       <title>交易轨道成为国家打击比特币叛乱的新前线</title>
       <link>https://bitcoinmagazine.com/culture/bitcoin-must-become-a-medium-of-exchange-to-survive</link>
-      <description><![CDATA[随着国家认真打击金融隐私，比特币必须成为一种功能性的交易媒介，否则就会面临网络孤立的风险。]]></description>
+      <description><![CDATA[随着国家认真打击金融隐私，比特币必须成为一种功能性的交换媒介，否则就会面临网络孤立的风险。]]></description>
       <guid>https://bitcoinmagazine.com/culture/bitcoin-must-become-a-medium-of-exchange-to-survive</guid>
       <pubDate>Thu, 24 Aug 2023 12:00:00 GMT</pubDate>
     </item>
@@ -253,7 +267,7 @@
     <item>
       <title>Nodal Power 获得 1300 万美元种子轮融资，推动垃圾填埋场可再生能源转型</title>
       <link>https://bitcoinmagazine.com/business/nodal-power-secures-13-million-seed-round-to-drive-renewable-energy-transformation-at-landfills</link>
-      <description><![CDATA[Nodal Power 获得 1300 万美元用于减少垃圾填埋场甲烷、产生可再生能源并为创新数据中心提供电力。]]></description>
+      <description><![CDATA[Nodal Power 获得 1300 万美元用于减少垃圾填埋场甲烷、生产可再生能源并为创新数据中心提供电力。]]></description>
       <guid>https://bitcoinmagazine.com/business/nodal-power-secures-13-million-seed-round-to-drive-renewable-energy-transformation-at-landfills</guid>
       <pubDate>Mon, 21 Aug 2023 12:00:00 GMT</pubDate>
     </item>
@@ -340,20 +354,6 @@
       <description><![CDATA[Blockstream 与 STOKR 合作，通过 Liquid 网络创建投资产品，旨在购买低价 ASIC 并在牛市期间转售。]]></description>
       <guid>https://bitcoinmagazine.com/business/blockstream-banks-on-asic-market-recovery-with-basic-note</guid>
       <pubDate>Tue, 15 Aug 2023 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧洲首只现货比特币 ETF 现已在阿姆斯特丹泛欧交易所上市</title>
-      <link>https://bitcoinmagazine.com/markets/europes-first-spot-bitcoin-etf-now-listed-on-euronext-amsterdam</link>
-      <description><![CDATA[在美国证券交易委员会推迟批准现货比特币 ETF 的决定后不到一周，欧洲就推出了第一个比特币 ETF。]]></description>
-      <guid>https://bitcoinmagazine.com/markets/europes-first-spot-bitcoin-etf-now-listed-on-euronext-amsterdam</guid>
-      <pubDate>Tue, 15 Aug 2023 12:05:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>您的财务隐私受到攻击：国家支持的对比特币的攻击如何增长</title>
-      <link>https://bitcoinmagazine.com/culture/state-sponsored-attacks-on-bitcoin-privacy-are-growing</link>
-      <description><![CDATA[巩固金融权力的新立法努力和对比特币用户的法律攻击表明开发隐私工具的必要性。]]></description>
-      <guid>https://bitcoinmagazine.com/culture/state-sponsored-attacks-on-bitcoin-privacy-are-growing</guid>
-      <pubDate>Tue, 15 Aug 2023 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
