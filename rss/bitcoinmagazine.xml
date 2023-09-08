@@ -4,7 +4,7 @@
     <title>比特币杂志 - 比特币新闻、文章和专家见解</title>
     <link>https://bitcoinmagazine.com</link>
     <description>《比特币杂志》成立于 2012 年，是有关比特币的最古老、最成熟的值得信赖的新闻、信息和思想领导力来源。</description>
-    <lastBuildDate>Fri, 08 Sep 2023 00:50:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Sep 2023 12:22:26 GMT</lastBuildDate>
     <item>
       <title>Samara Asset 捐赠 10,000 美元支持非洲女性比特币教育</title>
       <link>https://bitcoinmagazine.com/culture/samara-donates-10000-to-support-bitcoin-education-for-women-in-africa</link>
@@ -78,7 +78,7 @@
     <item>
       <title>Valkyrie CIO 预测 2024 年第一季度美国比特币 ETF</title>
       <link>https://bitcoinmagazine.com/markets/valkyrie-cio-bitcoin-spot-etf-q1-2024</link>
-      <description><![CDATA[Valkyrie Investments 首席信息官 Steven McClurg 预测，比特币 ETF 在 10 月份获得批准的可能性为“50%”，这是此类基金最早能够通过 SEC 评估的时间。]]></description>
+      <description><![CDATA[Valkyrie Investments 的首席信息官 Steven McClurg 预测，比特币 ETF 在 10 月份获得批准的可能性为“50%”，这是此类基金通过 SEC 评估的最早时间。]]></description>
       <guid>https://bitcoinmagazine.com/markets/valkyrie-cio-bitcoin-spot-etf-q1-2024</guid>
       <pubDate>Wed, 06 Sep 2023 12:35:45 GMT</pubDate>
     </item>
@@ -141,7 +141,7 @@
     <item>
       <title>30,000 个比特币以每个 0.03 美元的价格出售，现价值 8 亿美元</title>
       <link>https://bitcoinmagazine.com/markets/30000-bitcoins-sold-for-0-03-each</link>
-      <description><![CDATA[《比特币杂志》回顾了比特币市场历史上最糟糕的销售之一——2010 年，有人在市场上以每枚仅 0.03 美元的价格出售了 30,000 枚比特币。]]></description>
+      <description><![CDATA[《比特币杂志》回顾了比特币市场历史上最糟糕的销售之一——2010 年，有人在市场上仅以每枚 0.03 美元的价格出售了 30,000 枚比特币。]]></description>
       <guid>https://bitcoinmagazine.com/markets/30000-bitcoins-sold-for-0-03-each</guid>
       <pubDate>Wed, 30 Aug 2023 14:45:45 GMT</pubDate>
     </item>
@@ -183,7 +183,7 @@
     <item>
       <title>最新的比特币杂志现已发售</title>
       <link>https://bitcoinmagazine.com/culture/q2-2023-print-bitcoin-magazine-now-on-sale</link>
-      <description><![CDATA[在供应用完之前购买新的印刷版《比特币杂志》。]]></description>
+      <description><![CDATA[在供应耗尽之前购买新的印刷版《比特币杂志》。]]></description>
       <guid>https://bitcoinmagazine.com/culture/q2-2023-print-bitcoin-magazine-now-on-sale</guid>
       <pubDate>Mon, 28 Aug 2023 13:57:50 GMT</pubDate>
     </item>
@@ -246,7 +246,7 @@
     <item>
       <title>交易轨道成为国家打击比特币叛乱的新前线</title>
       <link>https://bitcoinmagazine.com/culture/bitcoin-must-become-a-medium-of-exchange-to-survive</link>
-      <description><![CDATA[随着国家认真打击金融隐私，比特币必须成为一种功能性的交易媒介，否则就会面临网络孤立的风险。]]></description>
+      <description><![CDATA[随着国家认真打击金融隐私，比特币必须成为一种功能性的交换媒介，否则就会面临网络孤立的风险。]]></description>
       <guid>https://bitcoinmagazine.com/culture/bitcoin-must-become-a-medium-of-exchange-to-survive</guid>
       <pubDate>Thu, 24 Aug 2023 12:00:00 GMT</pubDate>
     </item>
@@ -293,17 +293,17 @@
       <pubDate>Mon, 21 Aug 2023 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Nodal Power 获得 1300 万美元种子轮融资，推动垃圾填埋场可再生能源转型</title>
-      <link>https://bitcoinmagazine.com/business/nodal-power-secures-13-million-seed-round-to-drive-renewable-energy-transformation-at-landfills</link>
-      <description><![CDATA[Nodal Power 获得 1300 万美元用于减少垃圾填埋场甲烷、产生可再生能源并为创新数据中心提供电力。]]></description>
-      <guid>https://bitcoinmagazine.com/business/nodal-power-secures-13-million-seed-round-to-drive-renewable-energy-transformation-at-landfills</guid>
-      <pubDate>Mon, 21 Aug 2023 12:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Nostr 确保未来的免费互联网</title>
       <link>https://bitcoinmagazine.com/culture/how-nostr-breaks-the-vicious-cycles-of-social-media</link>
       <description><![CDATA[Nostr 是一种新兴的开源工具，可以确保自由通信而不受大型科技公司或政府的审查。]]></description>
       <guid>https://bitcoinmagazine.com/culture/how-nostr-breaks-the-vicious-cycles-of-social-media</guid>
+      <pubDate>Mon, 21 Aug 2023 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nodal Power 获得 1300 万美元种子轮融资，推动垃圾填埋场可再生能源转型</title>
+      <link>https://bitcoinmagazine.com/business/nodal-power-secures-13-million-seed-round-to-drive-renewable-energy-transformation-at-landfills</link>
+      <description><![CDATA[Nodal Power 获得 1300 万美元用于减少垃圾填埋场甲烷、产生可再生能源并为创新数据中心提供电力。]]></description>
+      <guid>https://bitcoinmagazine.com/business/nodal-power-secures-13-million-seed-round-to-drive-renewable-energy-transformation-at-landfills</guid>
       <pubDate>Mon, 21 Aug 2023 12:00:00 GMT</pubDate>
     </item>
     <item>
