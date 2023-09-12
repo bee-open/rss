@@ -4,7 +4,49 @@
     <title>比特币杂志 - 比特币新闻、文章和专家见解</title>
     <link>https://bitcoinmagazine.com</link>
     <description>《比特币杂志》成立于 2012 年，是有关比特币的最古老、最成熟的值得信赖的新闻、信息和思想领导力来源。</description>
-    <lastBuildDate>Mon, 11 Sep 2023 12:03:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Sep 2023 00:05:22 GMT</lastBuildDate>
+    <item>
+      <title>为比特币挖矿提供保险：采访 Bitshure 和 Evertas 的 Thomas Shewchuck</title>
+      <link>https://bitcoinmagazine.com/business/insuring-bitcoin-mining-an-interview-with-thomas-shewchuck-of-bitshure-and-evertas</link>
+      <description><![CDATA[Evertas 的 Thomas Schewchuck 解释了原因，保险是采矿作业中的一个重要变量。]]></description>
+      <guid>https://bitcoinmagazine.com/business/insuring-bitcoin-mining-an-interview-with-thomas-shewchuck-of-bitshure-and-evertas</guid>
+      <pubDate>Mon, 11 Sep 2023 20:14:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>安东尼·庞普里亚诺（Anthony Pompliano）表示比特币牛市即将到来</title>
+      <link>https://bitcoinmagazine.com/markets/anthony-pompliano-says-bitcoin-bull-run-is-coming</link>
+      <description><![CDATA[推动 Pompliano 乐观的关键因素之一是机构对比特币日益增长的兴趣。]]></description>
+      <guid>https://bitcoinmagazine.com/markets/anthony-pompliano-says-bitcoin-bull-run-is-coming</guid>
+      <pubDate>Mon, 11 Sep 2023 18:14:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>PayPal 前总裁戴维·马库斯 (David Marcus) 致力于将比特币打造成全球支付网络</title>
+      <link>https://bitcoinmagazine.com/markets/former-paypal-president-david-marcus-aims-to-turn-bitcoin-into-a-global-payment-network</link>
+      <description><![CDATA[马库斯强调比特币需要进一步发展，提供更快、更便宜、更高效的交易。]]></description>
+      <guid>https://bitcoinmagazine.com/markets/former-paypal-president-david-marcus-aims-to-turn-bitcoin-into-a-global-payment-network</guid>
+      <pubDate>Mon, 11 Sep 2023 16:29:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>天启 PoW：比特币和末日</title>
+      <link>https://bitcoinmagazine.com/culture/apocalypse-pow-bitcoin-and-the-end-of-days</link>
+      <description><![CDATA[为什么比特币在末日准备者和悲观主义者中如此受欢迎？它最有可能在最坏的情况下幸存下来。]]></description>
+      <guid>https://bitcoinmagazine.com/culture/apocalypse-pow-bitcoin-and-the-end-of-days</guid>
+      <pubDate>Mon, 11 Sep 2023 15:02:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过马克·古德温的《比特币美元》探索金融与信任的交叉点</title>
+      <link>https://bitcoinmagazine.com/bitcoin-books/exploring-finance-and-trust-with-the-bitcoin-dollar</link>
+      <description><![CDATA[比特币杂志主编发布了他的第一本书，为随着比特币的发明而变化的金融格局提供了新的视角。]]></description>
+      <guid>https://bitcoinmagazine.com/bitcoin-books/exploring-finance-and-trust-with-the-bitcoin-dollar</guid>
+      <pubDate>Mon, 11 Sep 2023 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ZK Rollup 即将登陆比特币。这是您需要知道的全部</title>
+      <link>https://bitcoinmagazine.com/technical/zk-rollups-are-coming-to-bitcoin-heres-all-you-need-to-know</link>
+      <description><![CDATA[零知识汇总即将进入比特币，两个团队竞相将这种新颖的可扩展性和隐私解决方案引入最古老的加密货币。]]></description>
+      <guid>https://bitcoinmagazine.com/technical/zk-rollups-are-coming-to-bitcoin-heres-all-you-need-to-know</guid>
+      <pubDate>Mon, 11 Sep 2023 14:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Chainaanalysis谴责比特币核心贡献者“不合格”</title>
       <link>https://bitcoinmagazine.com/technical/chainalysis-denounces-bitcoin-core-contributor-as-unqualified</link>
@@ -127,7 +169,7 @@
     <item>
       <title>比特币最高主义者对序数的颂歌</title>
       <link>https://bitcoinmagazine.com/culture/a-bitcoin-maximalists-ode-to-ordinals</link>
-      <description><![CDATA[序号是比特币的天然伴侣，它释放了前所未有的机遇，并进一步证明了比特币相对于其他区块链的优越性。]]></description>
+      <description><![CDATA[序数是比特币的天然伴侣，它释放了前所未有的机遇，并进一步证明了比特币相对于其他区块链的优越性。]]></description>
       <guid>https://bitcoinmagazine.com/culture/a-bitcoin-maximalists-ode-to-ordinals</guid>
       <pubDate>Fri, 01 Sep 2023 17:30:00 GMT</pubDate>
     </item>
@@ -174,7 +216,7 @@
       <pubDate>Wed, 30 Aug 2023 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>X (Twitter) 获得存储、转移和交易比特币和加密货币的许可</title>
+      <title>X (Twitter) 获得存储、转移和交易比特币和加密货币的许可证</title>
       <link>https://bitcoinmagazine.com/business/x-twitter-obtains-license-to-store-transfer-and-trade-bitcoin-and-crypto</link>
       <description><![CDATA[该许可证还包括相关服务提供商，例如钱包、支付处理器和交易所。]]></description>
       <guid>https://bitcoinmagazine.com/business/x-twitter-obtains-license-to-store-transfer-and-trade-bitcoin-and-crypto</guid>
@@ -197,7 +239,7 @@
     <item>
       <title>Chainaanalysis 调查负责人“不知道”监控软件工作的科学证据</title>
       <link>https://bitcoinmagazine.com/technical/chainalysis-investigations-lead-is-unaware-of-scientific-evidence</link>
-      <description><![CDATA[著名律师托尔·埃克兰 (Tor Ekeland) 通过在 Chainaanalysis 的取证中找出漏洞，在美国政府针对比特币雾创始人罗曼·斯特林戈夫 (Roman Sterlingov) 的案件中找出漏洞。]]></description>
+      <description><![CDATA[著名律师托尔·埃克兰 (Tor Ekeland) 通过在 Chainaanalysis 的取证中找出漏洞，在美国政府针对所谓的比特币雾创造者罗曼·斯特林戈夫 (Roman Sterlingov) 的案件中找出漏洞。]]></description>
       <guid>https://bitcoinmagazine.com/technical/chainalysis-investigations-lead-is-unaware-of-scientific-evidence</guid>
       <pubDate>Mon, 28 Aug 2023 15:00:00 GMT</pubDate>
     </item>
@@ -312,48 +354,6 @@
       <description><![CDATA[该数据中心的容量为8兆瓦，并计划在不久的将来进一步扩建。]]></description>
       <guid>https://bitcoinmagazine.com/business/genesis-digital-assets-expands-bitcoin-mining-capacity-in-sweden</guid>
       <pubDate>Mon, 21 Aug 2023 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nodal Power 获得 1300 万美元种子轮融资，推动垃圾填埋场可再生能源转型</title>
-      <link>https://bitcoinmagazine.com/business/nodal-power-secures-13-million-seed-round-to-drive-renewable-energy-transformation-at-landfills</link>
-      <description><![CDATA[Nodal Power 获得 1300 万美元用于减少垃圾填埋场甲烷、产生可再生能源并为创新数据中心提供电力。]]></description>
-      <guid>https://bitcoinmagazine.com/business/nodal-power-secures-13-million-seed-round-to-drive-renewable-energy-transformation-at-landfills</guid>
-      <pubDate>Mon, 21 Aug 2023 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nostr 确保未来的免费互联网</title>
-      <link>https://bitcoinmagazine.com/culture/how-nostr-breaks-the-vicious-cycles-of-social-media</link>
-      <description><![CDATA[Nostr 是一种新兴的开源工具，可以确保自由通信而不受大型科技公司或政府的审查。]]></description>
-      <guid>https://bitcoinmagazine.com/culture/how-nostr-breaks-the-vicious-cycles-of-social-media</guid>
-      <pubDate>Mon, 21 Aug 2023 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>发现自由：与比特币爱好者的旅程</title>
-      <link>https://bitcoinmagazine.com/culture/preview-a-tour-of-thailand-designed-for-bitcoiners</link>
-      <description><![CDATA[比特币爱好者是一个由思想开放、欣赏主权的人们组成的社区，可以从泰国的冒险中成长起来。]]></description>
-      <guid>https://bitcoinmagazine.com/culture/preview-a-tour-of-thailand-designed-for-bitcoiners</guid>
-      <pubDate>Fri, 18 Aug 2023 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trezor 扩展隐私功能，为 Trezor Model One 推出 Coinjoin</title>
-      <link>https://bitcoinmagazine.com/business/trezor-expands-privacy-features-introduces-coinjoin-for-trezor-model-one</link>
-      <description><![CDATA[Trezor Model One 引入了 coinjoin，增强了所有用户的比特币交易隐私和安全性。]]></description>
-      <guid>https://bitcoinmagazine.com/business/trezor-expands-privacy-features-introduces-coinjoin-for-trezor-model-one</guid>
-      <pubDate>Thu, 17 Aug 2023 16:25:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>比特币杂志书籍宣布新书发布：吉米·宋（Jimmy Song）撰写的《菲亚特毁掉一切》</title>
-      <link>https://bitcoinmagazine.com/bitcoin-books/bitcoin-magazine-books-releases-fiat-ruins-everything</link>
-      <description><![CDATA[比特币杂志图书在其不断壮大的阵容中增加了一位新作者。本标题探讨了各种形式的法币贬值以及比特币如何带来一线希望。]]></description>
-      <guid>https://bitcoinmagazine.com/bitcoin-books/bitcoin-magazine-books-releases-fiat-ruins-everything</guid>
-      <pubDate>Thu, 17 Aug 2023 13:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是软货币？定义、与硬通货的比较</title>
-      <link>https://bitcoinmagazine.com/guides/soft-money</link>
-      <description><![CDATA[软货币是一种货币，如纸币或法定货币，易于创造，与黄金、白银和比特币等硬货币形成鲜明对比。]]></description>
-      <guid>https://bitcoinmagazine.com/guides/soft-money</guid>
-      <pubDate>Thu, 17 Aug 2023 13:02:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
