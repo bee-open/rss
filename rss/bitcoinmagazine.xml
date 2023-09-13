@@ -4,7 +4,21 @@
     <title>比特币杂志 - 比特币新闻、文章和专家见解</title>
     <link>https://bitcoinmagazine.com</link>
     <description>《比特币杂志》成立于 2012 年，是有关比特币的最古老、最成熟的值得信赖的新闻、信息和思想领导力来源。</description>
-    <lastBuildDate>Wed, 13 Sep 2023 00:10:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Sep 2023 12:04:19 GMT</lastBuildDate>
+    <item>
+      <title>自 Dorsey 称其“惊人”至 11 美元以来，比特币价格上涨 220,000%</title>
+      <link>https://bitcoinmagazine.com/markets/bitcoin-price-220000-jack-dorsey-first-called-it-amazing-11</link>
+      <description><![CDATA[比特币历史学家 Pete Rizzo 的一篇新文章显示，Jack Dorsey 自从比特币价格仅为 11 美元以来一直是比特币的冠军。]]></description>
+      <guid>https://bitcoinmagazine.com/markets/bitcoin-price-220000-jack-dorsey-first-called-it-amazing-11</guid>
+      <pubDate>Wed, 13 Sep 2023 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Coinbase 首席执行官称比特币为“加密货币中最重要的资产”</title>
+      <link>https://bitcoinmagazine.com/markets/coinbase-ceo-calls-bitcoin-most-important-asset-crypto</link>
+      <description><![CDATA[Brian Armstrong 周三表示，Coinbase 正在努力让用户能够访问闪电网络，当时对比特币给予了一些罕见的积极赞扬。]]></description>
+      <guid>https://bitcoinmagazine.com/markets/coinbase-ceo-calls-bitcoin-most-important-asset-crypto</guid>
+      <pubDate>Wed, 13 Sep 2023 09:51:11 GMT</pubDate>
+    </item>
     <item>
       <title>萨尔瓦多能否复制新加坡的成功之路？</title>
       <link>https://bitcoinmagazine.com/el-salvador-bitcoin-news/can-el-salvador-duplicate-singapores-road-to-success</link>
@@ -20,7 +34,7 @@
       <pubDate>Tue, 12 Sep 2023 20:02:11 GMT</pubDate>
     </item>
     <item>
-      <title>Nunchuck 协作比特币托管平台进入测试阶段</title>
+      <title>Nunchuck 协作比特币托管平台进入测试版</title>
       <link>https://bitcoinmagazine.com/business/nunchuck-launches-collaborative-bitcoin-custody</link>
       <description><![CDATA[Nunchuck 推出了 Byzantine，这是一个为比特币顾问带来改变游戏规则的托管平台，强调多用户钱包、增强的安全性和隐私性。]]></description>
       <guid>https://bitcoinmagazine.com/business/nunchuck-launches-collaborative-bitcoin-custody</guid>
@@ -141,7 +155,7 @@
     <item>
       <title>OnChainMonkey 花费超过 100 万美元将 NFT 迁移到比特币</title>
       <link>https://bitcoinmagazine.com/culture/onchainmonkey-1-million-migrate-nfts-to-bitcoin</link>
-      <description><![CDATA[一个流行的以太坊 NFT 项目花费了 100 万美元的费用，将其收藏品转移到了比特币区块链上。]]></description>
+      <description><![CDATA[一个流行的以太坊 NFT 项目花费了 100 万美元的费用，将其收藏品转移到比特币区块链上。]]></description>
       <guid>https://bitcoinmagazine.com/culture/onchainmonkey-1-million-migrate-nfts-to-bitcoin</guid>
       <pubDate>Thu, 07 Sep 2023 11:54:43 GMT</pubDate>
     </item>
@@ -211,7 +225,7 @@
     <item>
       <title>比特币最高主义者对序数的颂歌</title>
       <link>https://bitcoinmagazine.com/culture/a-bitcoin-maximalists-ode-to-ordinals</link>
-      <description><![CDATA[序号是比特币的天然伴侣，它释放了前所未有的机遇，并进一步证明了比特币相对于其他区块链的优越性。]]></description>
+      <description><![CDATA[序数是比特币的天然伴侣，它释放了前所未有的机遇，并进一步证明了比特币相对于其他区块链的优越性。]]></description>
       <guid>https://bitcoinmagazine.com/culture/a-bitcoin-maximalists-ode-to-ordinals</guid>
       <pubDate>Fri, 01 Sep 2023 17:30:00 GMT</pubDate>
     </item>
@@ -246,7 +260,7 @@
     <item>
       <title>30,000 个比特币以每个 0.03 美元的价格出售，现价值 8 亿美元</title>
       <link>https://bitcoinmagazine.com/markets/30000-bitcoins-sold-for-0-03-each</link>
-      <description><![CDATA[《比特币杂志》回顾了比特币市场历史上最糟糕的销售之一——2010 年，有人在市场上仅以每枚 0.03 美元的价格出售了 30,000 枚比特币。]]></description>
+      <description><![CDATA[《比特币杂志》回顾了比特币市场历史上最糟糕的销售之一——2010 年，有人在市场上以每枚仅 0.03 美元的价格出售了 30,000 枚比特币。]]></description>
       <guid>https://bitcoinmagazine.com/markets/30000-bitcoins-sold-for-0-03-each</guid>
       <pubDate>Wed, 30 Aug 2023 14:45:45 GMT</pubDate>
     </item>
@@ -321,7 +335,7 @@
       <pubDate>Fri, 25 Aug 2023 14:13:11 GMT</pubDate>
     </item>
     <item>
-      <title>为什么创造者经济需要以比特币为基础运行</title>
+      <title>为什么创造者经济需要以比特币为基础</title>
       <link>https://bitcoinmagazine.com/culture/why-the-creator-economy-needs-to-run-on-bitcoin</link>
       <description><![CDATA[守门人打破了内容创作者的在线货币化。幸运的是，比特币提供了一种让创作者及其受众都受益的解决方案。]]></description>
       <guid>https://bitcoinmagazine.com/culture/why-the-creator-economy-needs-to-run-on-bitcoin</guid>
@@ -340,20 +354,6 @@
       <description><![CDATA[新功能使闪电通道的流动性发生变化，解决了围绕交易吞吐量和流动性限制的历史痛点。]]></description>
       <guid>https://bitcoinmagazine.com/business/blockstreams-core-lightning-integrates-splicing-feature</guid>
       <pubDate>Thu, 24 Aug 2023 17:38:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>股东运动在灰度诉讼中争取收回客户比特币</title>
-      <link>https://bitcoinmagazine.com/legal/grayscale-lawsuit-fights-to-reclaim-customer-bitcoin</link>
-      <description><![CDATA[灰度因涉嫌灰度比特币信托管理不当以及利益冲突而面临诉讼。邀请股东参与此案。]]></description>
-      <guid>https://bitcoinmagazine.com/legal/grayscale-lawsuit-fights-to-reclaim-customer-bitcoin</guid>
-      <pubDate>Thu, 24 Aug 2023 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>交易轨道成为国家打击比特币叛乱的新前线</title>
-      <link>https://bitcoinmagazine.com/culture/bitcoin-must-become-a-medium-of-exchange-to-survive</link>
-      <description><![CDATA[随着国家认真打击金融隐私，比特币必须成为一种功能性的交易媒介，否则就会面临网络孤立的风险。]]></description>
-      <guid>https://bitcoinmagazine.com/culture/bitcoin-must-become-a-medium-of-exchange-to-survive</guid>
-      <pubDate>Thu, 24 Aug 2023 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
