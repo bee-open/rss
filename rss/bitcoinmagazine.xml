@@ -4,7 +4,21 @@
     <title>比特币杂志 - 比特币新闻、文章和专家见解</title>
     <link>https://bitcoinmagazine.com</link>
     <description>《比特币杂志》成立于 2012 年，是有关比特币的最古老、最成熟的值得信赖的新闻、信息和思想领导力来源。</description>
-    <lastBuildDate>Thu, 14 Sep 2023 00:06:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Sep 2023 12:05:08 GMT</lastBuildDate>
+    <item>
+      <title>12,000%：自 Cathie Wood 首次投资以来，比特币价格大幅上涨</title>
+      <link>https://bitcoinmagazine.com/markets/12000-bitcoin-price-climbs-cathie-wood-ark-etfs</link>
+      <description><![CDATA[八年前的这个星期，Ark Invest 成为第一只投资比特币的美国 ETF，当时​​比特币的交易价格在 200 至 300 美元之间。]]></description>
+      <guid>https://bitcoinmagazine.com/markets/12000-bitcoin-price-climbs-cathie-wood-ark-etfs</guid>
+      <pubDate>Thu, 14 Sep 2023 12:01:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>OnChainMonkey 以 10 万美元的价格成为比特币最大的拍卖会之一</title>
+      <link>https://bitcoinmagazine.com/markets/onchainmonkey-sells-100000-biggest-bitcoin-ordinal-sales</link>
+      <description><![CDATA[继价值 100 万美元迁移至比特币区块链之后，OnChainMonkey Ordinals 项目完成了迄今为止最大的销售之一。]]></description>
+      <guid>https://bitcoinmagazine.com/markets/onchainmonkey-sells-100000-biggest-bitcoin-ordinal-sales</guid>
+      <pubDate>Thu, 14 Sep 2023 11:06:29 GMT</pubDate>
+    </item>
     <item>
       <title>传动链很愚蠢，证明我错了</title>
       <link>https://bitcoinmagazine.com/technical/drivechains-are-stupid-prove-me-wrong</link>
@@ -27,7 +41,7 @@
       <pubDate>Wed, 13 Sep 2023 15:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Julian Liniger 的 Relai 应用程序：应对比特币熊市和新法规</title>
+      <title>Julian Liniger 的 Relai 应用程序：驾驭比特币熊市和新法规</title>
       <link>https://bitcoinmagazine.com/business/julian-linigers-relai-app-navigating-the-bitcoin-bear-market-and-new-regulations</link>
       <description><![CDATA[了解 Julian Liniger 的创新 Relai 应用程序如何帮助用户应对不可预测的比特币熊市并保持领先于新法规。]]></description>
       <guid>https://bitcoinmagazine.com/business/julian-linigers-relai-app-navigating-the-bitcoin-bear-market-and-new-regulations</guid>
@@ -57,14 +71,14 @@
     <item>
       <title>牛市比特币现在允许哥斯达黎加人通过该国的主要支付系统购买比特币</title>
       <link>https://bitcoinmagazine.com/business/bull-bitcoin-now-allows-costa-ricans-to-buy-btc-with-countrys-primary-payment-system</link>
-      <description><![CDATA[哥斯达黎加企业现在可以使用比特币钱包支付供应商、员工和公用事业账单，而无需为兑换账户注资和接收电汇。]]></description>
+      <description><![CDATA[哥斯达黎加企业现在可以使用比特币钱包支付供应商、员工和水电费，而无需为交易账户注资和接收电汇。]]></description>
       <guid>https://bitcoinmagazine.com/business/bull-bitcoin-now-allows-costa-ricans-to-buy-btc-with-countrys-primary-payment-system</guid>
       <pubDate>Tue, 12 Sep 2023 20:02:11 GMT</pubDate>
     </item>
     <item>
       <title>Nunchuk 协作比特币托管平台进入测试阶段</title>
       <link>https://bitcoinmagazine.com/business/nunchuck-launches-collaborative-bitcoin-custody</link>
-      <description><![CDATA[Nunchuk 推出了拜占庭，这是一个为比特币顾问带来改变游戏规则的托管平台，强调多用户钱包、增强的安全性和隐私性。]]></description>
+      <description><![CDATA[Nunchuk 推出了 Byzantine，这是一个为比特币顾问带来改变游戏规则的托管平台，强调多用户钱包、增强的安全性和隐私性。]]></description>
       <guid>https://bitcoinmagazine.com/business/nunchuck-launches-collaborative-bitcoin-custody</guid>
       <pubDate>Tue, 12 Sep 2023 18:21:30 GMT</pubDate>
     </item>
@@ -202,7 +216,7 @@
       <pubDate>Wed, 06 Sep 2023 16:55:34 GMT</pubDate>
     </item>
     <item>
-      <title>等待确认：Bitcoin Optech 关于 Mempool 和政策的系列文章</title>
+      <title>等待确认：Bitcoin Optech 关于 Mempool 和政策的系列</title>
       <link>https://bitcoinmagazine.com/technical/waiting-for-confirmation-bitcoin-optechs-series-on-mempool-and-policy</link>
       <description><![CDATA[比特币 Optech 系列的 10 部分摘要，描述了比特币节点内存池的内部运作以及管理它们的规则和激励措施。]]></description>
       <guid>https://bitcoinmagazine.com/technical/waiting-for-confirmation-bitcoin-optechs-series-on-mempool-and-policy</guid>
@@ -225,7 +239,7 @@
     <item>
       <title>Valkyrie CIO 预测 2024 年第一季度美国比特币 ETF</title>
       <link>https://bitcoinmagazine.com/markets/valkyrie-cio-bitcoin-spot-etf-q1-2024</link>
-      <description><![CDATA[Valkyrie Investments 的首席信息官 Steven McClurg 预测，比特币 ETF 在 10 月份获得批准的可能性为“50%”，这是此类基金通过 SEC 评估的最早时间。]]></description>
+      <description><![CDATA[Valkyrie Investments 首席信息官 Steven McClurg 预测，比特币 ETF 在 10 月份获得批准的可能性为“50%”，这是此类基金最早能够通过 SEC 评估的时间。]]></description>
       <guid>https://bitcoinmagazine.com/markets/valkyrie-cio-bitcoin-spot-etf-q1-2024</guid>
       <pubDate>Wed, 06 Sep 2023 12:35:45 GMT</pubDate>
     </item>
@@ -253,7 +267,7 @@
     <item>
       <title>比特币最高主义者对序数的颂歌</title>
       <link>https://bitcoinmagazine.com/culture/a-bitcoin-maximalists-ode-to-ordinals</link>
-      <description><![CDATA[序号是比特币的天然伴侣，它释放了前所未有的机遇，并进一步证明了比特币相对于其他区块链的优越性。]]></description>
+      <description><![CDATA[序数是比特币的天然伴侣，它释放了前所未有的机遇，并进一步证明了比特币相对于其他区块链的优越性。]]></description>
       <guid>https://bitcoinmagazine.com/culture/a-bitcoin-maximalists-ode-to-ordinals</guid>
       <pubDate>Fri, 01 Sep 2023 17:30:00 GMT</pubDate>
     </item>
@@ -265,7 +279,7 @@
       <pubDate>Thu, 31 Aug 2023 21:31:30 GMT</pubDate>
     </item>
     <item>
-      <title>Chainaanalysis，区块链取证领域的 Theranos？</title>
+      <title>Chainaanalysis，区块链取证的 Theranos？</title>
       <link>https://bitcoinmagazine.com/technical/chainalysis-the-theranos-of-blockchain-forensics</link>
       <description><![CDATA[越来越多的证据表明，Chainaanalysis 的区块链取证启发法可能更像是一种骗局，而不是一门科学。]]></description>
       <guid>https://bitcoinmagazine.com/technical/chainalysis-the-theranos-of-blockchain-forensics</guid>
@@ -321,16 +335,16 @@
       <pubDate>Tue, 29 Aug 2023 12:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Chainaanalysis 调查负责人“不知道”监控软件有效的科学证据</title>
+      <title>Chainaanalysis 调查负责人“不知道”监控软件工作的科学证据</title>
       <link>https://bitcoinmagazine.com/technical/chainalysis-investigations-lead-is-unaware-of-scientific-evidence</link>
-      <description><![CDATA[著名律师托尔·埃克兰 (Tor Ekeland) 通过在 Chainaanalysis 的取证中找出漏洞，在美国政府针对所谓的比特币雾创造者罗曼·斯特林戈夫 (Roman Sterlingov) 的案件中找出漏洞。]]></description>
+      <description><![CDATA[著名律师托尔·埃克兰 (Tor Ekeland) 通过在 Chainaanalysis 的取证中找出漏洞，在美国政府针对比特币雾创始人罗曼·斯特林戈夫 (Roman Sterlingov) 的案件中找出漏洞。]]></description>
       <guid>https://bitcoinmagazine.com/technical/chainalysis-investigations-lead-is-unaware-of-scientific-evidence</guid>
       <pubDate>Mon, 28 Aug 2023 15:00:00 GMT</pubDate>
     </item>
     <item>
       <title>最新的比特币杂志现已发售</title>
       <link>https://bitcoinmagazine.com/culture/q2-2023-print-bitcoin-magazine-now-on-sale</link>
-      <description><![CDATA[在供应耗尽之前购买新的印刷版《比特币杂志》。]]></description>
+      <description><![CDATA[在供应用完之前购买新的印刷版《比特币杂志》。]]></description>
       <guid>https://bitcoinmagazine.com/culture/q2-2023-print-bitcoin-magazine-now-on-sale</guid>
       <pubDate>Mon, 28 Aug 2023 13:57:50 GMT</pubDate>
     </item>
@@ -340,20 +354,6 @@
       <description><![CDATA[南斯拉夫社会主义联邦共和国的生活经历了战争、制裁和恶性通货膨胀，这表明了对主权货币的需求。]]></description>
       <guid>https://bitcoinmagazine.com/culture/how-my-life-in-the-former-yugoslavia-led-me-to-bitcoin</guid>
       <pubDate>Mon, 28 Aug 2023 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>里士满北部的富人：比特币赞歌？</title>
-      <link>https://bitcoinmagazine.com/culture/rich-men-north-of-richmond-a-bitcoin-anthem</link>
-      <description><![CDATA[奥利弗·安东尼 (Oliver Anthony) 的热门歌曲《里士满北部的富人》(Rich Men North of Richmond) 引起了比特币爱好者的共鸣，但这真的是一首“比特币”歌曲吗？]]></description>
-      <guid>https://bitcoinmagazine.com/culture/rich-men-north-of-richmond-a-bitcoin-anthem</guid>
-      <pubDate>Sat, 26 Aug 2023 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Milk Sad 漏洞及其对比特币意味着什么</title>
-      <link>https://bitcoinmagazine.com/technical/the-milk-sad-vulnerability-and-what-it-means-for-bitcoin</link>
-      <description><![CDATA[在《比特币解释》第 83 集中，主持人 Aaron 和 Sjors 讨论了 Libitcoin 库中名为“BX Seed”的不安全比特币库命令的问题。]]></description>
-      <guid>https://bitcoinmagazine.com/technical/the-milk-sad-vulnerability-and-what-it-means-for-bitcoin</guid>
-      <pubDate>Fri, 25 Aug 2023 16:27:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
