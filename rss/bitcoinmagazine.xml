@@ -4,7 +4,14 @@
     <title>比特币杂志 - 比特币新闻、文章和专家见解</title>
     <link>https://bitcoinmagazine.com</link>
     <description>《比特币杂志》成立于 2012 年，是有关比特币的最古老、最成熟的值得信赖的新闻、信息和思想领导力来源。</description>
-    <lastBuildDate>Mon, 18 Sep 2023 00:11:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Sep 2023 11:56:06 GMT</lastBuildDate>
+    <item>
+      <title>比特币标志着美国商品地位第八年</title>
+      <link>https://bitcoinmagazine.com/legal/bitcoin-marks-8th-year-us-commodity-sec-crypto</link>
+      <description><![CDATA[今天是比特币作为金融资产的一个重要里程碑的八周年——它被美国监管机构归类为商品。]]></description>
+      <guid>https://bitcoinmagazine.com/legal/bitcoin-marks-8th-year-us-commodity-sec-crypto</guid>
+      <pubDate>Mon, 18 Sep 2023 11:15:11 GMT</pubDate>
+    </item>
     <item>
       <title>比特币节点现在距离即时同步又近了一步</title>
       <link>https://bitcoinmagazine.com/technical/bitcoin-nodes-now-one-step-closer-to-instant-sync</link>
@@ -127,7 +134,7 @@
     <item>
       <title>牛市比特币现在允许哥斯达黎加人通过该国的主要支付系统购买比特币</title>
       <link>https://bitcoinmagazine.com/business/bull-bitcoin-now-allows-costa-ricans-to-buy-btc-with-countrys-primary-payment-system</link>
-      <description><![CDATA[哥斯达黎加企业现在可以使用比特币钱包支付供应商、员工和公用事业账单，而无需为交易账户注资和接收电汇。]]></description>
+      <description><![CDATA[哥斯达黎加企业现在可以使用比特币钱包支付供应商、员工和公用事业账单，而无需为兑换账户注资和接收电汇。]]></description>
       <guid>https://bitcoinmagazine.com/business/bull-bitcoin-now-allows-costa-ricans-to-buy-btc-with-countrys-primary-payment-system</guid>
       <pubDate>Tue, 12 Sep 2023 20:02:11 GMT</pubDate>
     </item>
@@ -253,7 +260,7 @@
     <item>
       <title>OnChainMonkey 花费超过 100 万美元将 NFT 迁移到比特币</title>
       <link>https://bitcoinmagazine.com/culture/onchainmonkey-1-million-migrate-nfts-to-bitcoin</link>
-      <description><![CDATA[一个流行的以太坊 NFT 项目花费了 100 万美元的费用，将其收藏品转移到了比特币区块链上。]]></description>
+      <description><![CDATA[一个流行的以太坊 NFT 项目花费了 100 万美元的费用，将其收藏品转移到比特币区块链上。]]></description>
       <guid>https://bitcoinmagazine.com/culture/onchainmonkey-1-million-migrate-nfts-to-bitcoin</guid>
       <pubDate>Thu, 07 Sep 2023 11:54:43 GMT</pubDate>
     </item>
@@ -295,7 +302,7 @@
     <item>
       <title>Valkyrie CIO 预测 2024 年第一季度美国比特币 ETF</title>
       <link>https://bitcoinmagazine.com/markets/valkyrie-cio-bitcoin-spot-etf-q1-2024</link>
-      <description><![CDATA[Valkyrie Investments 的首席信息官 Steven McClurg 预测，比特币 ETF 在 10 月份获得批准的可能性为“50%”，这是此类基金通过 SEC 评估的最早时间。]]></description>
+      <description><![CDATA[Valkyrie Investments 首席信息官 Steven McClurg 预测，比特币 ETF 在 10 月份获得批准的可能性为“50%”，这是此类基金最早能够通过 SEC 评估的时间。]]></description>
       <guid>https://bitcoinmagazine.com/markets/valkyrie-cio-bitcoin-spot-etf-q1-2024</guid>
       <pubDate>Wed, 06 Sep 2023 12:35:45 GMT</pubDate>
     </item>
@@ -323,7 +330,7 @@
     <item>
       <title>比特币最高主义者对序数的颂歌</title>
       <link>https://bitcoinmagazine.com/culture/a-bitcoin-maximalists-ode-to-ordinals</link>
-      <description><![CDATA[序号是比特币的天然伴侣，它释放了前所未有的机遇，并进一步证明了比特币相对于其他区块链的优越性。]]></description>
+      <description><![CDATA[序数是比特币的天然伴侣，它释放了前所未有的机遇，并进一步证明了比特币相对于其他区块链的优越性。]]></description>
       <guid>https://bitcoinmagazine.com/culture/a-bitcoin-maximalists-ode-to-ordinals</guid>
       <pubDate>Fri, 01 Sep 2023 17:30:00 GMT</pubDate>
     </item>
@@ -347,13 +354,6 @@
       <description><![CDATA[《比特币杂志》利用序数递归将其最新印刷杂志的封面刻在了比特币区块链上。]]></description>
       <guid>https://bitcoinmagazine.com/culture/bitcoin-magazine-print-cover-recursive-ordinal-inscription</guid>
       <pubDate>Thu, 31 Aug 2023 14:08:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>彭博社分析师：现货比特币 ETF 今年推出的可能性为 75%</title>
-      <link>https://bitcoinmagazine.com/markets/bloomberg-analysts-spot-bitcoin-etfs-now-have-75-odds-of-launching-this-year</link>
-      <description><![CDATA[分析师还将 2024 年底前的支持率提高至 95%。]]></description>
-      <guid>https://bitcoinmagazine.com/markets/bloomberg-analysts-spot-bitcoin-etfs-now-have-75-odds-of-launching-this-year</guid>
-      <pubDate>Wed, 30 Aug 2023 15:17:53 GMT</pubDate>
     </item>
     </channel>
 </rss>

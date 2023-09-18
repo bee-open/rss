@@ -4,9 +4,86 @@
     <title>Cointelegraph.com 新闻</title>
     <link>https://cointelegraph.com</link>
     <description>Cointelegraph 涵盖金融科技、区块链和比特币，为您带来最新的加密货币新闻和对货币未来的分析。</description>
-    <lastBuildDate>Mon, 18 Sep 2023 00:14:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Sep 2023 12:06:35 GMT</lastBuildDate>
     <item>
-      <title>币安美国交易量因危机而大幅下滑</title>
+      <title>博世、欧盟和区块链公司打造去中心化物联网：IAA Mobility</title>
+      <link>https://cointelegraph.com/news/bosch-eu-blockchain-companies-decentralized-iot-iaa-mobility</link>
+      <description><![CDATA[博世和 Peaq网络解释了物联网和物联网经济的未来将如何通过去中心化和链上自动化实现。 ]]></description>
+      <guid>https://cointelegraph.com/news/bosch-eu-blockchain-companies-decentralized-iot-iaa-mobility</guid>
+      <pubDate>Mon, 18 Sep 2023 11:27:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着非法交易达到 4B 美元，韩国重点关注场外加密货币监管</title>
+      <link>https://cointelegraph.com/news/south-korea-otc-crypto-regulations</link>
+      <description><![CDATA[根据韩国海关总署报告称，去年使用数字货币进行的非法外汇交易价值估计达 40 亿美元。 ]]></description>
+      <guid>https://cointelegraph.com/news/south-korea-otc-crypto-regulations</guid>
+      <pubDate>Mon, 18 Sep 2023 09:53:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>FOMC 与 BTC 价格“局部底部”——本周比特币需要了解的 5 件事</title>
+      <link>https://cointelegraph.com/news/fomc-btc-price-local-bottom-5-things-bitcoin-this-week</link>
+      <description><![CDATA[比特币网络基础知识看起来从来没有这么好过，因为在关键的美联储利率决策周，当谈到 BTC 价格走强时，乐观情绪又回来了。]]></description>
+      <guid>https://cointelegraph.com/news/fomc-btc-price-local-bottom-5-things-bitcoin-this-week</guid>
+      <pubDate>Mon, 18 Sep 2023 08:59:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>加密货币影响者因 JPEX 协会在香港被捕</title>
+      <link>https://cointelegraph.com/news/crypto-influencer-arrest-hong-kong-jpex</link>
+      <description><![CDATA[据报道香港警方加密货币影响者 Joseph Lam（林佐）因与加密货币交易所 JPEX 存在关联而被捕，他在 Instagram 上的用户名是“jolamchok”。]]></description>
+      <guid>https://cointelegraph.com/news/crypto-influencer-arrest-hong-kong-jpex</guid>
+      <pubDate>Mon, 18 Sep 2023 08:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>哈萨克斯坦设立监管机构实施CBDC</title>
+      <link>https://cointelegraph.com/news/cbdc-kazakhstan-establishes-regulatory-agency-cbdc</link>
+      <description><![CDATA[国家支付公司将负责“数字金融基础设施”的开发，包括数字坚戈的实施。]]></description>
+      <guid>https://cointelegraph.com/news/cbdc-kazakhstan-establishes-regulatory-agency-cbdc</guid>
+      <pubDate>Mon, 18 Sep 2023 08:30:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>9 位美国参议员公开支持伊丽莎白·沃伦的加密货币法案</title>
+      <link>https://cointelegraph.com/news/crypto-bill-us-nine-senators-back-elisabeth-warren</link>
+      <description><![CDATA[参议员伊丽莎白·沃伦宣布扩大她的联盟，以打击“加密货​​币在洗钱、贩毒、逃避制裁中的使用。”]]></description>
+      <guid>https://cointelegraph.com/news/crypto-bill-us-nine-senators-back-elisabeth-warren</guid>
+      <pubDate>Mon, 18 Sep 2023 07:16:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>斯卡拉穆奇主导竞购硅谷银行风险投资部门：报告</title>
+      <link>https://cointelegraph.com/news/scaramucci-lead-bidder-silicon-valley-bank-venture-capital-svb-capital</link>
+      <description><![CDATA[安东尼·斯卡拉穆奇的 SkyBridge Capital是主导竞购硅谷银行风险投资部门的资产管理公司之一，预计将在未来几周内出售。]]></description>
+      <guid>https://cointelegraph.com/news/scaramucci-lead-bidder-silicon-valley-bank-venture-capital-svb-capital</guid>
+      <pubDate>Mon, 18 Sep 2023 05:58:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>理想的以太坊社区构建的 zkEVM Scroll 将在几周内推出</title>
+      <link>https://cointelegraph.com/news/ethereum-community-built-zkevm-scroll-launching-in-weeks</link>
+      <description><![CDATA[Scroll 联合创始人张晔的目标是为以太坊提供社区驱动的去中心化、不可变的扩展解决方案。]]></description>
+      <guid>https://cointelegraph.com/news/ethereum-community-built-zkevm-scroll-launching-in-weeks</guid>
+      <pubDate>Mon, 18 Sep 2023 05:27:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>这个周末加密货币领域发生了什么？</title>
+      <link>https://cointelegraph.com/news/what-happened-in-crypto-on-the-weekend</link>
+      <description><![CDATA[以太坊的 Holesky 测试网启动失败、CoinEx 给黑客写公开信、Sam Bankman-Fried 的法庭闹剧等等。]]></description>
+      <guid>https://cointelegraph.com/news/what-happened-in-crypto-on-the-weekend</guid>
+      <pubDate>Mon, 18 Sep 2023 05:12:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Web3 是为了解决业务问题，而不是代币价格：谷歌云高管</title>
+      <link>https://cointelegraph.com/news/web3-solving-business-problems-not-token-prices-google-cloud-interview</link>
+      <description><![CDATA[虽然 TradFi 是Web3 的谷歌云负责人 James Tromans 表示，区块链技术的主要需求来源、数字身份和供应链也是令人兴奋的领域。]]></description>
+      <guid>https://cointelegraph.com/news/web3-solving-business-problems-not-token-prices-google-cloud-interview</guid>
+      <pubDate>Mon, 18 Sep 2023 01:54:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>JPEX指责合作伙伴“恶意”冻结资金，引发流动性危机</title>
+      <link>https://cointelegraph.com/news/jpex-blames-market-makers-hong-kong-liquidity-crisis</link>
+      <description><![CDATA[加密货币交易所 JPEX 有指责第三方做市商“恶意”冻结资金，导致交易所被迫提高提现费以应对流动性危机。]]></description>
+      <guid>https://cointelegraph.com/news/jpex-blames-market-makers-hong-kong-liquidity-crisis</guid>
+      <pubDate>Mon, 18 Sep 2023 01:26:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Binance.US 交易量因危机而大幅下滑</title>
       <link>https://cointelegraph.com/news/binanceus-exchange-volume-slumps-amidst-crisis</link>
       <description><![CDATA[9 月 16 日由于高管离职和持续的监管审查，Binance.US 的交易量为 509 万美元。]]></description>
       <guid>https://cointelegraph.com/news/binanceus-exchange-volume-slumps-amidst-crisis</guid>
@@ -20,7 +97,7 @@
       <pubDate>Sun, 17 Sep 2023 20:50:00 GMT</pubDate>
     </item>
     <item>
-      <title>MKR、AAVE、RUNE 和 RNDR 发出看涨信号，比特币价格保持在 2.6 万美元</title>
+      <title>MKR、AAVE、RUNE 和 RNDR 发出看涨信号，比特币价格维持在 2.6 万美元</title>
       <link>https://cointelegraph.com/news/bitcoin-price-holds-26k-as-mkr-aave-rune-and-rndr-flash-bullish-signals</link>
       <description><![CDATA[比特币看起来已经准备好开始缓解反弹，这可能会引发对 MKR、AAVE、RUNE 和 RNDR 的兴趣。]]></description>
       <guid>https://cointelegraph.com/news/bitcoin-price-holds-26k-as-mkr-aave-rune-and-rndr-flash-bullish-signals</guid>
@@ -36,7 +113,7 @@
     <item>
       <title>比特币价格能跌到多低？</title>
       <link>https://cointelegraph.com/news/how-low-can-the-bitcoin-price-go</link>
-      <description><![CDATA[BTC价格可查看基于目前正在发挥作用的三种看跌技术设置，未来几个月价格将会下降。]]></description>
+      <description><![CDATA[BTC价格可以查看基于目前正在发挥作用的三种看跌技术设置，未来几个月价格将会下降。]]></description>
       <guid>https://cointelegraph.com/news/how-low-can-the-bitcoin-price-go</guid>
       <pubDate>Sun, 17 Sep 2023 14:08:23 GMT</pubDate>
     </item>
@@ -137,83 +214,6 @@
       <description><![CDATA[尽管布莱恩施罗德辞职在美国证券交易委员会和美国商品期货交易委员会提起诉讼期间，作为该交易所美国部门的首席执行官，币安首席执行官赵长鹏声称离职是正常的。]]></description>
       <guid>https://cointelegraph.com/news/binance-ceo-responds-to-rumors-says-us-executive-is-taking-a-deserved-break</guid>
       <pubDate>Fri, 15 Sep 2023 23:01:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>政府反对“不必要的”、“有偏见的”SBF 陪审团选择问题</title>
-      <link>https://cointelegraph.com/news/us-government-objects-unnecessary-prejudicial-sam-bankman-fried-jury-selection-questions</link>
-      <description><![CDATA[美国检察官认为在尝试 SBF 之前，潜在的陪审员没有理由讨论有效的利他主义或多动症等。 ]]></description>
-      <guid>https://cointelegraph.com/news/us-government-objects-unnecessary-prejudicial-sam-bankman-fried-jury-selection-questions</guid>
-      <pubDate>Fri, 15 Sep 2023 21:52:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gemini 法律团队指责 DCG “操纵”Genesis 债权人</title>
-      <link>https://cointelegraph.com/news/gemini-legal-team-accuses-dcg-gaslighting-genesis-creditors</link>
-      <description><![CDATA[代表 Gemini Trust 的律师针对数字货币集团声称为无担保债权人提供“70-90% 的回收率”的计划向破产法庭提交了回应。]]></description>
-      <guid>https://cointelegraph.com/news/gemini-legal-team-accuses-dcg-gaslighting-genesis-creditors</guid>
-      <pubDate>Fri, 15 Sep 2023 21:25:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>加密货币业务：PayPal 推出加密货币升级、富兰克林邓普顿加入 BTC ETF 竞赛等等</title>
-      <link>https://cointelegraph.com/news/crypto-biz-paypal-rolls-out-crypto-ramps-franklin-templeton-joins-btc-etf-race-and-more</link>
-      <description><![CDATA[本周的加密货币业务着眼于 PayPal 的加密网关、富兰克林邓普顿 (Franklin Templeton) 的 BTC ETF 备案、Coinbase 的闪电网络集成以及 Meta 的新人工智能模型计划。]]></description>
-      <guid>https://cointelegraph.com/news/crypto-biz-paypal-rolls-out-crypto-ramps-franklin-templeton-joins-btc-etf-race-and-more</guid>
-      <pubDate>Fri, 15 Sep 2023 21:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国证券交易委员会 (SEC) 推翻了关于封存、编辑 Binance.US 案件中部分文件的决定</title>
-      <link>https://cointelegraph.com/news/sec-reverses-itself-sealing-redacting-some-documents-binance-us-case</link>
-      <description><![CDATA[8 月提交的文件28日可能会在一周后与公众见面。然而，它们并不是案件中的全部密封文件。]]></description>
-      <guid>https://cointelegraph.com/news/sec-reverses-itself-sealing-redacting-some-documents-binance-us-case</guid>
-      <pubDate>Fri, 15 Sep 2023 20:13:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是今天加密货币领域发生的事情</title>
-      <link>https://cointelegraph.com/news/what-happened-in-crypto-today</link>
-      <description><![CDATA[需要知道什么今天加密发生了什么？以下是影响比特币价格、区块链、DeFi、NFT、Web3 和加密货币监管的每日趋势和事件的最新新闻。]]></description>
-      <guid>https://cointelegraph.com/news/what-happened-in-crypto-today</guid>
-      <pubDate>Fri, 15 Sep 2023 19:33:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>萨姆·班克曼·弗里德在泄露的文件中说，“我做了我认为正确的事情”：报告</title>
-      <link>https://cointelegraph.com/news/sam-bankman-fried-leaked-docs-revealed</link>
-      <description><![CDATA[crypto提供的文档据报道，影响者 Tiffany Fong 透露了这位 FTX 前首席执行官的软禁生活以及他与卡罗琳·埃里森 (Caroline Ellison) 关系的详细信息。]]></description>
-      <guid>https://cointelegraph.com/news/sam-bankman-fried-leaked-docs-revealed</guid>
-      <pubDate>Fri, 15 Sep 2023 19:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Coinbase 首席执行官支持 DeFi，Polygon 表示 10 亿美元的 ZK-rollup 已获得回报：金融重新定义</title>
-      <link>https://cointelegraph.com/news/coinbase-ceo-stands-up-for-defi-polygon-says-1b-zk-rollup-paying-off-finance-redefined</link>
-      <description><![CDATA[Coinbase 首席执行官已成为DeFi 领域的最新盟友，呼吁对生态系统进行适当的监管，而不是监管机构采取执法行动。 ]]></description>
-      <guid>https://cointelegraph.com/news/coinbase-ceo-stands-up-for-defi-polygon-says-1b-zk-rollup-paying-off-finance-redefined</guid>
-      <pubDate>Fri, 15 Sep 2023 19:20:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nvidia AI 合作伙伴 Databricks 融资 5 亿美元，估值达到 43B 美元</title>
-      <link>https://cointelegraph.com/news/nvidia-ai-partner-databricks-raises-500-m-43-b-valuation</link>
-      <description><![CDATA[第一资本也加入了这轮投资，尽管是排名第一的竞争对手云平台Snowflake的客户端。]]></description>
-      <guid>https://cointelegraph.com/news/nvidia-ai-partner-databricks-raises-500-m-43-b-valuation</guid>
-      <pubDate>Fri, 15 Sep 2023 19:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国政府关门会对比特币产生什么影响</title>
-      <link>https://cointelegraph.com/news/us-government-shutdown-bitcoin</link>
-      <description><![CDATA[Marcel Pechman 解释了美国家庭现金过剩和储蓄不足的神话，以及美国政府关门如何影响比特币。]]></description>
-      <guid>https://cointelegraph.com/news/us-government-shutdown-bitcoin</guid>
-      <pubDate>Fri, 15 Sep 2023 19:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>3 个关键的以太币价格指标表明 ETH 正在为波动做好准备</title>
-      <link>https://cointelegraph.com/news/3-key-ethereum-price-metrics-suggest-that-eth-is-gearing-up-for-volatility</link>
-      <description><![CDATA[网络、期货和用户数据都表明 Ether 可能正在制定新的路线。]]></description>
-      <guid>https://cointelegraph.com/news/3-key-ethereum-price-metrics-suggest-that-eth-is-gearing-up-for-volatility</guid>
-      <pubDate>Fri, 15 Sep 2023 18:45:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>以太坊推出新测试网“Holešky”，为开发人员分配 1.6B ETH</title>
-      <link>https://cointelegraph.com/news/ethereum-launches-new-testnet-holesky-allocates-1-6b-eth-for-devs</link>
-      <description><![CDATA[Holešky 测试网有一个启动时供应 16 亿 ETH，使其可能比旧的 Goerli 网络更容易访问。]]></description>
-      <guid>https://cointelegraph.com/news/ethereum-launches-new-testnet-holesky-allocates-1-6b-eth-for-devs</guid>
-      <pubDate>Fri, 15 Sep 2023 17:59:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
