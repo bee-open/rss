@@ -4,9 +4,16 @@
     <title>CoinDesk：比特币、以太坊、加密货币新闻和价格数据</title>
     <link>https://www.coindesk.com</link>
     <description>来自 Coindesk 的最新头条新闻。</description>
-    <lastBuildDate>Sun, 17 Sep 2023 12:05:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Sep 2023 00:14:17 GMT</lastBuildDate>
     <item>
-      <title>司法部猛烈抨击山姆·班克曼·弗里德提出的“侵入性”陪审团问题</title>
+      <title>以太坊的 Holesky 测试网未能启动，这是区块链罕见的技术失误</title>
+      <link>https://www.coindesk.com/tech/2023/09/17/ethereums-holesky-testnet-fails-to-launch-in-rare-tech-misstep-for-the-blockchain/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines</link>
+      <description><![CDATA[以太坊区块链的开发人员表示，测试网络的创世文件存在配置错误，现在他们计划在大约两周后再次尝试。]]></description>
+      <guid>https://www.coindesk.com/tech/2023/09/17/ethereums-holesky-testnet-fails-to-launch-in-rare-tech-misstep-for-the-blockchain/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines</guid>
+      <pubDate>Sun, 17 Sep 2023 20:26:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>司法部猛烈抨击萨姆·班克曼·弗里德提出的“侵入性”陪审团问题</title>
       <link>https://www.coindesk.com/policy/2023/09/15/doj-slams-sam-bankman-frieds-intrusive-proposed-jury-questions/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines</link>
       <description><![CDATA[联邦检察官批评萨姆·班克曼-弗里德辩护团队提出的无效的可怕问题。]]></description>
       <guid>https://www.coindesk.com/policy/2023/09/15/doj-slams-sam-bankman-frieds-intrusive-proposed-jury-questions/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>以太坊区块链在历史性“合并”一周年之际推出“Holesky”测试网络</title>
       <link>https://www.coindesk.com/tech/2023/09/15/ethereum-blockchain-launches-holesky-test-network-on-first-anniversary-of-historic-merge/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines</link>
-      <description><![CDATA[该测试系统首次亮相，其规模设计为主网络的两倍，以便开发人员可以模拟大规模扩展，一年前，以太坊完成了历史性的“合并”转变，从最初的“权益证明”模型转变为“权益证明”模型。比特币使用的“工作量证明”设置。]]></description>
+      <description><![CDATA[该测试系统的首次亮相——设计为主网络的两倍，以便开发人员可以模拟大规模扩展，一年前，以太坊完成了历史性的“合并”转变，从最初的“权益证明”模型转变为“权益证明”模型。比特币使用的“工作量证明”设置。]]></description>
       <guid>https://www.coindesk.com/tech/2023/09/15/ethereum-blockchain-launches-holesky-test-network-on-first-anniversary-of-historic-merge/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines</guid>
       <pubDate>Fri, 15 Sep 2023 14:02:09 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>美洲先行者：山寨币领先，德意志银行探索代币化</title>
       <link>https://www.coindesk.com/markets/2023/09/15/first-mover-americas-altcoins-lead-gains-and-deutsche-bank-to-explore-tokenization/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines</link>
-      <description><![CDATA[2023 年 9 月 15 日比特币 (BTC) 和加密市场的最新价格走势。First Mover 是 CoinDesk 的每日时事通讯，介绍了加密市场的最新动态。]]></description>
+      <description><![CDATA[2023 年 9 月 15 日比特币 (BTC) 和加密货币市场的最新价格走势。First Mover 是 CoinDesk 的每日时事通讯，介绍了加密货币市场的最新动态。]]></description>
       <guid>https://www.coindesk.com/markets/2023/09/15/first-mover-americas-altcoins-lead-gains-and-deutsche-bank-to-explore-tokenization/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines</guid>
       <pubDate>Fri, 15 Sep 2023 12:22:32 GMT</pubDate>
     </item>
@@ -106,7 +113,7 @@
     <item>
       <title>摄氏度和Core Scientific以4500万美元的交易解决了激烈的采矿纠纷</title>
       <link>https://www.coindesk.com/policy/2023/09/15/celsius-core-scientific-resolve-acrimonious-mining-dispute-with-45m-deal/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines</link>
-      <description><![CDATA[此前，由于未缴纳会费而导致其采矿设备被关闭，摄氏公司曾索赔数亿美元的损失。]]></description>
+      <description><![CDATA[此前，由于未缴纳会费而导致其矿机被关闭，摄氏公司曾索赔数亿美元的损失。]]></description>
       <guid>https://www.coindesk.com/policy/2023/09/15/celsius-core-scientific-resolve-acrimonious-mining-dispute-with-45m-deal/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines</guid>
       <pubDate>Fri, 15 Sep 2023 09:45:34 GMT</pubDate>
     </item>
@@ -141,7 +148,7 @@
     <item>
       <title>对加密货币未来最重要的美国参议员告诉监管机构使用现有权力</title>
       <link>https://www.coindesk.com/policy/2023/09/14/most-important-us-senator-for-cryptos-future-tells-regulators-to-use-existing-powers/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines</link>
-      <description><![CDATA[美国参议员谢罗德·布朗（俄亥俄州民主党人）周四向监管机构发出了号召，要求他们利用目前对数字资产拥有的任何权力来改善加密货币在国会的命运。市场透明度并保护将资金投入该行业的投资者。]]></description>
+      <description><![CDATA[美国参议员谢罗德·布朗（俄亥俄州民主党人）周四向监管机构发出了对加密货币的国会命运的权力，要求他们利用目前对数字资产拥有的任何权力来改善加密货币的现状。市场透明度并保护将资金投入该行业的投资者。]]></description>
       <guid>https://www.coindesk.com/policy/2023/09/14/most-important-us-senator-for-cryptos-future-tells-regulators-to-use-existing-powers/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines</guid>
       <pubDate>Thu, 14 Sep 2023 18:23:29 GMT</pubDate>
     </item>
@@ -155,7 +162,7 @@
     <item>
       <title>美国 CBDC 国会听证会上就数字美元票据展开辩论</title>
       <link>https://www.coindesk.com/policy/2023/09/14/dueling-cbdc-bills-heading-for-us-digital-dollar-debate-in-congressional-hearing/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines</link>
-      <description><![CDATA[在美国，数字美元的想法对共和党立法者来说是如此令人震惊，以至于它已成为总统竞选的话题，并成为多项法案的主题，以在它第一次出现之前扼杀它。但众议员斯蒂芬·林奇（马萨诸塞州民主党人）周四重新提出了一项法案，呼吁他们阻止他们试图阻止的事情。]]></description>
+      <description><![CDATA[在美国，数字美元的想法对共和党立法者来说是如此令人震惊，以至于它已成为总统竞选的话题，并成为多项法案的主题，以在它第一次喘息之前扼杀它。但众议员斯蒂芬·林奇（马萨诸塞州民主党人）周四重新提出了一项法案，呼吁他们阻止他们试图阻止的事情。]]></description>
       <guid>https://www.coindesk.com/policy/2023/09/14/dueling-cbdc-bills-heading-for-us-digital-dollar-debate-in-congressional-hearing/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines</guid>
       <pubDate>Thu, 14 Sep 2023 16:24:08 GMT</pubDate>
     </item>
@@ -223,7 +230,7 @@
       <pubDate>Thu, 14 Sep 2023 10:11:28 GMT</pubDate>
     </item>
     <item>
-      <title>在 FTX 抛售担忧之后，XRP、SOL 引领加密货币主要货币小幅复苏</title>
+      <title>在 FTX 抛售担忧之后，XRP、SOL 引领加密货币专业股小幅复苏</title>
       <link>https://www.coindesk.com/markets/2023/09/14/xrp-sol-lead-slight-crypto-majors-recovery-after-ftx-sell-off-fears/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines</link>
       <description><![CDATA[周四欧洲早盘，BTC 上涨 1.5%，交易价格超过 26,100 美元，而 ETH 则接近 1,700 美元，然后跌至 1,650 美元。]]></description>
       <guid>https://www.coindesk.com/markets/2023/09/14/xrp-sol-lead-slight-crypto-majors-recovery-after-ftx-sell-off-fears/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines</guid>
@@ -253,7 +260,7 @@
     <item>
       <title>Aptos 计划 11 月解锁 1.03 亿美元 APT 代币，加密货币交易者变得看跌</title>
       <link>https://www.coindesk.com/markets/2023/09/14/crypto-traders-grow-bearish-on-apt-token-as-aptos-plans-20m-unlock-in-november/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines</link>
-      <description><![CDATA[根据 The Tie 的数据，待解锁的 APT 总量为 2000 万枚，相当于过去 30 天日均交易量的 112%。]]></description>
+      <description><![CDATA[根据 The Tie 的数据，待解锁的总计 2000 万个 APT 相当于过去 30 天日均交易量的 112%。]]></description>
       <guid>https://www.coindesk.com/markets/2023/09/14/crypto-traders-grow-bearish-on-apt-token-as-aptos-plans-20m-unlock-in-november/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines</guid>
       <pubDate>Thu, 14 Sep 2023 06:44:16 GMT</pubDate>
     </item>
@@ -286,7 +293,7 @@
       <pubDate>Wed, 13 Sep 2023 22:32:42 GMT</pubDate>
     </item>
     <item>
-      <title>SEC 执法机制的下一个目标是什么？</title>
+      <title>SEC 执法制度的下一个目标是什么？</title>
       <link>https://www.coindesk.com/consensus-magazine/2023/09/13/what-will-be-the-next-target-of-the-secs-enforcement-regime/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines</link>
       <description><![CDATA[]]></description>
       <guid>https://www.coindesk.com/consensus-magazine/2023/09/13/what-will-be-the-next-target-of-the-secs-enforcement-regime/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines</guid>
@@ -295,7 +302,7 @@
     <item>
       <title>针对拥有财富 500 强客户的云提供商的网络钓鱼攻击导致 Fortress Trust 损失 1500 万美元的加密货币</title>
       <link>https://www.coindesk.com/business/2023/09/13/phishing-attack-on-cloud-provider-with-fortune-500-clients-led-to-15m-crypto-theft-from-fortress-trust/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines</link>
-      <description><![CDATA[消息人士称，对 Retool 的网络钓鱼攻击导致了盗窃事件，这促使 Fortress Trust 同意将自己出售给 Ripple。]]></description>
+      <description><![CDATA[消息人士称，针对 Retool 的网络钓鱼攻击导致了盗窃事件，这促使 Fortress Trust 同意将自己出售给 Ripple。]]></description>
       <guid>https://www.coindesk.com/business/2023/09/13/phishing-attack-on-cloud-provider-with-fortune-500-clients-led-to-15m-crypto-theft-from-fortress-trust/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines</guid>
       <pubDate>Wed, 13 Sep 2023 20:37:50 GMT</pubDate>
     </item>
@@ -346,13 +353,6 @@
       <link>https://www.coindesk.com/business/2023/09/13/what-correlations-tell-us-about-the-value-of-multi-asset-crypto-portfolios/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines</link>
       <description><![CDATA[Truvius 的 Max Freccia 进行了一些数字运算，以评估扩展到最大的加密货币之外的好处。]]></description>
       <guid>https://www.coindesk.com/business/2023/09/13/what-correlations-tell-us-about-the-value-of-multi-asset-crypto-portfolios/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines</guid>
-      <pubDate>Wed, 13 Sep 2023 15:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>加密货币对利率的兴趣</title>
-      <link>https://www.coindesk.com/markets/2023/09/13/cryptos-interest-in-rates/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines</link>
-      <description><![CDATA[CoinDesk Indices 的 Todd Groth 探讨了利率与比特币之间的关系。]]></description>
-      <guid>https://www.coindesk.com/markets/2023/09/13/cryptos-interest-in-rates/?utm_medium=referral&amp;utm_source=rss&amp;utm_campaign=headlines</guid>
       <pubDate>Wed, 13 Sep 2023 15:45:00 GMT</pubDate>
     </item>
     </channel>

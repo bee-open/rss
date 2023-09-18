@@ -4,7 +4,7 @@
     <title>比特币杂志 - 比特币新闻、文章和专家见解</title>
     <link>https://bitcoinmagazine.com</link>
     <description>《比特币杂志》成立于 2012 年，是有关比特币的最古老、最成熟的值得信赖的新闻、信息和思想领导力来源。</description>
-    <lastBuildDate>Sun, 17 Sep 2023 11:59:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Sep 2023 00:11:09 GMT</lastBuildDate>
     <item>
       <title>比特币节点现在距离即时同步又近了一步</title>
       <link>https://bitcoinmagazine.com/technical/bitcoin-nodes-now-one-step-closer-to-instant-sync</link>
@@ -188,17 +188,17 @@
       <pubDate>Mon, 11 Sep 2023 15:02:03 GMT</pubDate>
     </item>
     <item>
-      <title>ZK Rollup 即将登陆比特币。这是您需要知道的全部</title>
-      <link>https://bitcoinmagazine.com/technical/zk-rollups-are-coming-to-bitcoin-heres-all-you-need-to-know</link>
-      <description><![CDATA[零知识汇总即将进入比特币，两个团队竞相将这种新颖的可扩展性和隐私解决方案引入最古老的加密货币。]]></description>
-      <guid>https://bitcoinmagazine.com/technical/zk-rollups-are-coming-to-bitcoin-heres-all-you-need-to-know</guid>
-      <pubDate>Mon, 11 Sep 2023 14:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>通过马克·古德温的《比特币美元》探索金融与信任的交叉点</title>
       <link>https://bitcoinmagazine.com/bitcoin-books/exploring-finance-and-trust-with-the-bitcoin-dollar</link>
       <description><![CDATA[比特币杂志主编发布了他的第一本书，为随着比特币的发明而变化的金融格局提供了新的视角。]]></description>
       <guid>https://bitcoinmagazine.com/bitcoin-books/exploring-finance-and-trust-with-the-bitcoin-dollar</guid>
+      <pubDate>Mon, 11 Sep 2023 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ZK Rollup 即将登陆比特币。这是您需要知道的全部</title>
+      <link>https://bitcoinmagazine.com/technical/zk-rollups-are-coming-to-bitcoin-heres-all-you-need-to-know</link>
+      <description><![CDATA[零知识汇总即将进入比特币，两个团队竞相将这种新颖的可扩展性和隐私解决方案引入最古老的加密货币。]]></description>
+      <guid>https://bitcoinmagazine.com/technical/zk-rollups-are-coming-to-bitcoin-heres-all-you-need-to-know</guid>
       <pubDate>Mon, 11 Sep 2023 14:00:00 GMT</pubDate>
     </item>
     <item>
@@ -323,7 +323,7 @@
     <item>
       <title>比特币最高主义者对序数的颂歌</title>
       <link>https://bitcoinmagazine.com/culture/a-bitcoin-maximalists-ode-to-ordinals</link>
-      <description><![CDATA[序数是比特币的天然伴侣，它释放了前所未有的机遇，并进一步证明了比特币相对于其他区块链的优越性。]]></description>
+      <description><![CDATA[序号是比特币的天然伴侣，它释放了前所未有的机遇，并进一步证明了比特币相对于其他区块链的优越性。]]></description>
       <guid>https://bitcoinmagazine.com/culture/a-bitcoin-maximalists-ode-to-ordinals</guid>
       <pubDate>Fri, 01 Sep 2023 17:30:00 GMT</pubDate>
     </item>
