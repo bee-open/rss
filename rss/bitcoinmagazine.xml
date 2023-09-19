@@ -4,7 +4,28 @@
     <title>比特币杂志 - 比特币新闻、文章和专家见解</title>
     <link>https://bitcoinmagazine.com</link>
     <description>《比特币杂志》成立于 2012 年，是有关比特币的最古老、最成熟的值得信赖的新闻、信息和思想领导力来源。</description>
-    <lastBuildDate>Mon, 18 Sep 2023 11:56:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Sep 2023 00:07:17 GMT</lastBuildDate>
+    <item>
+      <title>蜘蛛链：第二层权益证明</title>
+      <link>https://bitcoinmagazine.com/technical/spiderchains-a-proof-of-stake-second-layer</link>
+      <description><![CDATA[Botanix Labs 设计了一种机制，用于管理双向挂钩的比特币侧链系统，并以 BTC 为抵押，进行权益证明。]]></description>
+      <guid>https://bitcoinmagazine.com/technical/spiderchains-a-proof-of-stake-second-layer</guid>
+      <pubDate>Mon, 18 Sep 2023 21:02:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>接受规模扩张的经济现实</title>
+      <link>https://bitcoinmagazine.com/technical/coming-to-terms-with-the-economic-reality-of-scaling</link>
+      <description><![CDATA[扩大比特币规模并不像放弃魔杖那么简单，为了取得成功，需要应对不可避免的经济现实。]]></description>
+      <guid>https://bitcoinmagazine.com/technical/coming-to-terms-with-the-economic-reality-of-scaling</guid>
+      <pubDate>Mon, 18 Sep 2023 15:01:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>序数创造者以罕见的公开露面打破隐居</title>
+      <link>https://bitcoinmagazine.com/culture/bitcoin-ordinals-creator-rare-public-appearance</link>
+      <description><![CDATA[Ordinals 协议的创建者 Casey Rodarmor 在本周于新加坡举行的 Ordinals 峰会上令人惊讶地重返公众视野。]]></description>
+      <guid>https://bitcoinmagazine.com/culture/bitcoin-ordinals-creator-rare-public-appearance</guid>
+      <pubDate>Mon, 18 Sep 2023 14:41:24 GMT</pubDate>
+    </item>
     <item>
       <title>比特币标志着美国商品地位第八年</title>
       <link>https://bitcoinmagazine.com/legal/bitcoin-marks-8th-year-us-commodity-sec-crypto</link>
@@ -333,27 +354,6 @@
       <description><![CDATA[序数是比特币的天然伴侣，它释放了前所未有的机遇，并进一步证明了比特币相对于其他区块链的优越性。]]></description>
       <guid>https://bitcoinmagazine.com/culture/a-bitcoin-maximalists-ode-to-ordinals</guid>
       <pubDate>Fri, 01 Sep 2023 17:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国证券交易委员会 (SEC) 推迟贝莱德 (BlackRock)、富达 (Fidelity) 等公司的现货比特币 ETF 申请</title>
-      <link>https://bitcoinmagazine.com/markets/sec-delays-blackrock-fidelity-and-others-spot-bitcoin-etf-applications</link>
-      <description><![CDATA[SEC 刚刚将这些申请再推迟 45 天，将下一个截止日期推迟到 10 月中旬。]]></description>
-      <guid>https://bitcoinmagazine.com/markets/sec-delays-blackrock-fidelity-and-others-spot-bitcoin-etf-applications</guid>
-      <pubDate>Thu, 31 Aug 2023 21:31:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chainaanalysis，区块链取证的 Theranos？</title>
-      <link>https://bitcoinmagazine.com/technical/chainalysis-the-theranos-of-blockchain-forensics</link>
-      <description><![CDATA[越来越多的证据表明，Chainaanalysis 的区块链取证启发法可能更像是一种骗局，而不是一门科学。]]></description>
-      <guid>https://bitcoinmagazine.com/technical/chainalysis-the-theranos-of-blockchain-forensics</guid>
-      <pubDate>Thu, 31 Aug 2023 17:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>比特币杂志将最新印刷版的封面题为递归序数</title>
-      <link>https://bitcoinmagazine.com/culture/bitcoin-magazine-print-cover-recursive-ordinal-inscription</link>
-      <description><![CDATA[《比特币杂志》利用序数递归将其最新印刷杂志的封面刻在了比特币区块链上。]]></description>
-      <guid>https://bitcoinmagazine.com/culture/bitcoin-magazine-print-cover-recursive-ordinal-inscription</guid>
-      <pubDate>Thu, 31 Aug 2023 14:08:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
