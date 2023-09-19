@@ -4,7 +4,21 @@
     <title>比特币杂志 - 比特币新闻、文章和专家见解</title>
     <link>https://bitcoinmagazine.com</link>
     <description>《比特币杂志》成立于 2012 年，是有关比特币的最古老、最成熟的值得信赖的新闻、信息和思想领导力来源。</description>
-    <lastBuildDate>Tue, 19 Sep 2023 00:07:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Sep 2023 12:00:07 GMT</lastBuildDate>
+    <item>
+      <title>超过 50% 的美国比特币矿工支持新政策小组</title>
+      <link>https://bitcoinmagazine.com/business/over-50-of-us-bitcoin-miners-to-back-new-policy-group</link>
+      <description><![CDATA[数字电力网络的使命是倡导比特币挖矿并推动生产性能源政策。]]></description>
+      <guid>https://bitcoinmagazine.com/business/over-50-of-us-bitcoin-miners-to-back-new-policy-group</guid>
+      <pubDate>Tue, 19 Sep 2023 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Arca CIO：贝莱德比特币 ETF 将带来新资金</title>
+      <link>https://bitcoinmagazine.com/business/blackrock-bitcoin-etf-new-money-arca-cio</link>
+      <description><![CDATA[CNBC 的一份新报告推测了贝莱德比特币 ETF 的潜在影响，表明在 SEC 批准后，该 ETF 可能成为最具主导地位的ETF。]]></description>
+      <guid>https://bitcoinmagazine.com/business/blackrock-bitcoin-etf-new-money-arca-cio</guid>
+      <pubDate>Tue, 19 Sep 2023 10:30:06 GMT</pubDate>
+    </item>
     <item>
       <title>蜘蛛链：第二层权益证明</title>
       <link>https://bitcoinmagazine.com/technical/spiderchains-a-proof-of-stake-second-layer</link>
@@ -50,7 +64,7 @@
     <item>
       <title>彭博社称对 Chainaanalysis 的质疑是“抹黑运动”</title>
       <link>https://bitcoinmagazine.com/culture/bloomberg-calls-questioning-of-chainalysis-smear-campaign-raises-questions-of-media-integrity</link>
-      <description><![CDATA[在一篇新文章中，彭博社引用了部分事实，驳斥了对正在进行的比特币雾试验中 Chainaanalysis 准确性的担忧，称其为“抹黑活动”。]]></description>
+      <description><![CDATA[在一篇新文章中，彭博社引用了部分事实，驳斥了对正在进行的比特币雾试验中 Chainaanalysis 准确性的担忧，称其为“诽谤活动”。]]></description>
       <guid>https://bitcoinmagazine.com/culture/bloomberg-calls-questioning-of-chainalysis-smear-campaign-raises-questions-of-media-integrity</guid>
       <pubDate>Fri, 15 Sep 2023 19:00:00 GMT</pubDate>
     </item>
@@ -83,7 +97,7 @@
       <pubDate>Thu, 14 Sep 2023 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>德意志银行将斥资 1.3 万亿欧元为机构提供比特币和加密货币托管服务</title>
+      <title>德意志银行斥资 1.3 万亿欧元为机构提供比特币和加密货币托管服务</title>
       <link>https://bitcoinmagazine.com/business/1-3-trillion-deutsche-bank-to-offer-bitcoin-and-crypto-custody-for-institutions</link>
       <description><![CDATA[这家德国银行巨头将首次为其客户持有有限数量的加密货币。]]></description>
       <guid>https://bitcoinmagazine.com/business/1-3-trillion-deutsche-bank-to-offer-bitcoin-and-crypto-custody-for-institutions</guid>
@@ -340,20 +354,6 @@
       <description><![CDATA[比特币杂志技术编辑 Shinobi 写道，激活算力托管与盲目合并挖矿相结合不可避免地会降低性能。]]></description>
       <guid>https://bitcoinmagazine.com/technical/drivechains-introduce-new-incentive-dynamics-to-bitcoin</guid>
       <pubDate>Tue, 05 Sep 2023 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Shinobi 加入比特币杂志担任技术编辑</title>
-      <link>https://bitcoinmagazine.com/business/shinobi-joins-bitcoin-magazine-technical-editor</link>
-      <description><![CDATA[比特币隐私研究员 Shinobi 将加入《比特币杂志》担任技术编辑。]]></description>
-      <guid>https://bitcoinmagazine.com/business/shinobi-joins-bitcoin-magazine-technical-editor</guid>
-      <pubDate>Tue, 05 Sep 2023 13:15:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>比特币最高主义者对序数的颂歌</title>
-      <link>https://bitcoinmagazine.com/culture/a-bitcoin-maximalists-ode-to-ordinals</link>
-      <description><![CDATA[序数是比特币的天然伴侣，它释放了前所未有的机遇，并进一步证明了比特币相对于其他区块链的优越性。]]></description>
-      <guid>https://bitcoinmagazine.com/culture/a-bitcoin-maximalists-ode-to-ordinals</guid>
-      <pubDate>Fri, 01 Sep 2023 17:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
