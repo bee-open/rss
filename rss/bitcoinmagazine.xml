@@ -4,7 +4,7 @@
     <title>比特币杂志 - 比特币新闻、文章和专家见解</title>
     <link>https://bitcoinmagazine.com</link>
     <description>《比特币杂志》成立于 2012 年，是有关比特币的最古老、最成熟的值得信赖的新闻、信息和思想领导力来源。</description>
-    <lastBuildDate>Thu, 21 Sep 2023 00:06:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Sep 2023 12:00:06 GMT</lastBuildDate>
     <item>
       <title>读者对传动链激励问题的反应</title>
       <link>https://bitcoinmagazine.com/technical/readers-react-to-drivechain-incentive-concerns</link>
@@ -36,7 +36,7 @@
     <item>
       <title>向 RFK Jr. 介绍比特币的纳什取向</title>
       <link>https://bitcoinmagazine.com/markets/introducing-rfk-jr-to-bitcoins-nashian-orientation</link>
-      <description><![CDATA[在小 RFK Jr. 最近发表关于比特币支持的美国国债的言论之后，也许是时候认真考虑纳什对比特币的解释以及约翰·纳什关于理想货币的概念性工作了。]]></description>
+      <description><![CDATA[在小 RFK Jr. 最近就比特币支持的美国国债发表评论之后，也许是时候认真考虑纳什对比特币的解释以及约翰·纳什关于理想货币的概念性工作了。]]></description>
       <guid>https://bitcoinmagazine.com/markets/introducing-rfk-jr-to-bitcoins-nashian-orientation</guid>
       <pubDate>Wed, 20 Sep 2023 15:30:00 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@
     <item>
       <title>现货比特币 ETF 获得批准后会发生什么？</title>
       <link>https://bitcoinmagazine.com/markets/what-happens-after-a-bitcoin-etf-is-approved-bitcoin-backstage-with-dylan-leclair</link>
-      <description><![CDATA[比特币 ETF 对于比特币市场的发展意味着什么？和迪伦·勒克莱尔一起找出答案。]]></description>
+      <description><![CDATA[比特币 ETF 对比特币市场的发展意味着什么？和迪伦·勒克莱尔一起找出答案。]]></description>
       <guid>https://bitcoinmagazine.com/markets/what-happens-after-a-bitcoin-etf-is-approved-bitcoin-backstage-with-dylan-leclair</guid>
       <pubDate>Tue, 19 Sep 2023 16:46:19 GMT</pubDate>
     </item>
@@ -78,7 +78,7 @@
     <item>
       <title>Arca CIO：贝莱德比特币 ETF 将带来新资金</title>
       <link>https://bitcoinmagazine.com/business/blackrock-bitcoin-etf-new-money-arca-cio</link>
-      <description><![CDATA[CNBC 的一份新报告推测了贝莱德比特币 ETF 的影响，表明在 SEC 批准后，该 ETF 可能成为最具主导地位的ETF。]]></description>
+      <description><![CDATA[CNBC 的一份新报告推测了贝莱德比特币 ETF 的潜在影响，表明在 SEC 批准后，该 ETF 可能成为最具主导地位的ETF。]]></description>
       <guid>https://bitcoinmagazine.com/business/blackrock-bitcoin-etf-new-money-arca-cio</guid>
       <pubDate>Tue, 19 Sep 2023 10:30:06 GMT</pubDate>
     </item>
@@ -127,7 +127,7 @@
     <item>
       <title>彭博社称对 Chainaanalysis 的质疑是“抹黑运动”</title>
       <link>https://bitcoinmagazine.com/culture/bloomberg-calls-questioning-of-chainalysis-smear-campaign-raises-questions-of-media-integrity</link>
-      <description><![CDATA[在一篇新文章中，彭博社引用了部分事实，驳斥了对正在进行的比特币雾试验中 Chainaanalysis 准确性的担忧，称其为“诽谤活动”。]]></description>
+      <description><![CDATA[在一篇新文章中，彭博社引用了部分事实，驳斥了对正在进行的比特币雾试验中 Chainaanalysis 准确性的担忧，称其为“抹黑活动”。]]></description>
       <guid>https://bitcoinmagazine.com/culture/bloomberg-calls-questioning-of-chainalysis-smear-campaign-raises-questions-of-media-integrity</guid>
       <pubDate>Fri, 15 Sep 2023 19:00:00 GMT</pubDate>
     </item>
@@ -160,7 +160,7 @@
       <pubDate>Thu, 14 Sep 2023 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>德意志银行斥资 1.3 万亿欧元为机构提供比特币和加密货币托管服务</title>
+      <title>德意志银行将斥资 1.3 万亿欧元为机构提供比特币和加密货币托管服务</title>
       <link>https://bitcoinmagazine.com/business/1-3-trillion-deutsche-bank-to-offer-bitcoin-and-crypto-custody-for-institutions</link>
       <description><![CDATA[这家德国银行巨头将首次为其客户持有有限数量的加密货币。]]></description>
       <guid>https://bitcoinmagazine.com/business/1-3-trillion-deutsche-bank-to-offer-bitcoin-and-crypto-custody-for-institutions</guid>
@@ -253,7 +253,7 @@
     <item>
       <title>价值 1.5 万亿美元的资产管理公司富兰克林邓普顿 (Franklin Templeton) 申请美国比特币 ETF</title>
       <link>https://bitcoinmagazine.com/business/1-5-trillion-asset-manager-franklin-templeton-files-for-us-bitcoin-etf-</link>
-      <description><![CDATA[资产管理公司富兰克林邓普顿 (Franklin Templeton) 已向 SEC 提交监管表格 S-1，寻求批准现货比特币 ETF。]]></description>
+      <description><![CDATA[资产管理公司富兰克林邓普顿已向 SEC 提交监管表格 S-1，寻求批准现货比特币 ETF。]]></description>
       <guid>https://bitcoinmagazine.com/business/1-5-trillion-asset-manager-franklin-templeton-files-for-us-bitcoin-etf-</guid>
       <pubDate>Tue, 12 Sep 2023 15:01:09 GMT</pubDate>
     </item>
