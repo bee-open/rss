@@ -4,7 +4,70 @@
     <title>比特币杂志 - 比特币新闻、文章和专家见解</title>
     <link>https://bitcoinmagazine.com</link>
     <description>《比特币杂志》成立于 2012 年，是有关比特币的最古老、最成熟的值得信赖的新闻、信息和思想领导力来源。</description>
-    <lastBuildDate>Thu, 21 Sep 2023 12:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Sep 2023 00:07:01 GMT</lastBuildDate>
+    <item>
+      <title>比特币钱包的演变：从早期到今天的现代解决方案</title>
+      <link>https://bitcoinmagazine.com/technical/the-evolution-of-bitcoin-wallets-from-the-early-days-to-todays-modern-solutions-</link>
+      <description><![CDATA[对比特币钱包多年来如何发展的高度概述。]]></description>
+      <guid>https://bitcoinmagazine.com/technical/the-evolution-of-bitcoin-wallets-from-the-early-days-to-todays-modern-solutions-</guid>
+      <pubDate>Thu, 21 Sep 2023 22:36:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>理想银行</title>
+      <link>https://bitcoinmagazine.com/print/ideal-banking</link>
+      <description><![CDATA[欢迎来到比特币银行和电子现金革命。]]></description>
+      <guid>https://bitcoinmagazine.com/print/ideal-banking</guid>
+      <pubDate>Thu, 21 Sep 2023 22:00:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>比特币在俄罗斯-乌克兰冲突中的作用将成为华盛顿特区的中心舞台</title>
+      <link>https://bitcoinmagazine.com/business/bitcoins-role-in-russia-ukraine-conflict-to-take-center-stage-in-dc</link>
+      <description><![CDATA[讨论将深入探讨有关数字货币使用和 CBDC 安全影响的关键主题。]]></description>
+      <guid>https://bitcoinmagazine.com/business/bitcoins-role-in-russia-ukraine-conflict-to-take-center-stage-in-dc</guid>
+      <pubDate>Thu, 21 Sep 2023 21:54:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>一种新的无需信任的方式来计算比特币价格</title>
+      <link>https://bitcoinmagazine.com/technical/a-new-trustless-way-to-calculate-the-bitcoin-price-</link>
+      <description><![CDATA[UTXOracle 提供了一种仅利用完整节点和单个脚本以无需信任的方式导出比特币近似法定价格的方法。]]></description>
+      <guid>https://bitcoinmagazine.com/technical/a-new-trustless-way-to-calculate-the-bitcoin-price-</guid>
+      <pubDate>Thu, 21 Sep 2023 18:25:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>对冲基金总监：现货比特币 ETF 将吸引 3000 亿美元</title>
+      <link>https://bitcoinmagazine.com/markets/spot-bitcoin-etf-would-attract-300-billion-hedge-fund-director</link>
+      <description><![CDATA[Morgan Creek Capital 首席执行官认为，现货比特币 ETF“将在年底左右获得批准”。]]></description>
+      <guid>https://bitcoinmagazine.com/markets/spot-bitcoin-etf-would-attract-300-billion-hedge-fund-director</guid>
+      <pubDate>Thu, 21 Sep 2023 17:25:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nostr.com：不把它卖给拉屎币的人</title>
+      <link>https://bitcoinmagazine.com/culture/nostr-com-not-selling-it-to-shitcoiners</link>
+      <description><![CDATA[Ben Arc 详细介绍了该域正在做的事情，以及他参与 Nostr 协议的历史。]]></description>
+      <guid>https://bitcoinmagazine.com/culture/nostr-com-not-selling-it-to-shitcoiners</guid>
+      <pubDate>Thu, 21 Sep 2023 17:01:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>塞尔维亚菲利普亲王引领比特币民族国家采用之路</title>
+      <link>https://bitcoinmagazine.com/culture/prince-philip-of-serbia-leads-the-way-for-bitcoin-nation-state-adoption-with-jan3-and-aqua-wallet-in-el-salvador</link>
+      <description><![CDATA[菲利普亲王坐下来讨论他对民族国家采用比特币的愿景，以及他在实现这一目标方面所发挥的作用。]]></description>
+      <guid>https://bitcoinmagazine.com/culture/prince-philip-of-serbia-leads-the-way-for-bitcoin-nation-state-adoption-with-jan3-and-aqua-wallet-in-el-salvador</guid>
+      <pubDate>Thu, 21 Sep 2023 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>UTXOracle：解决 Oracle 问题的去中心化方法</title>
+      <link>https://bitcoinmagazine.com/technical/utxoracle-model-could-bring-use-cases-to-bitcoin</link>
+      <description><![CDATA[使用UTXO集来计算比特币价格。]]></description>
+      <guid>https://bitcoinmagazine.com/technical/utxoracle-model-could-bring-use-cases-to-bitcoin</guid>
+      <pubDate>Thu, 21 Sep 2023 15:19:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>自 Joe Rogan 第一次提及以来，比特币价格上涨了 20,000%</title>
+      <link>https://bitcoinmagazine.com/culture/bitcoin-price-20000-joe-rogan-podcast</link>
+      <description><![CDATA[受欢迎的播客 Joe Rogan 于 10 年前首次正式提及比特币，这是一个里程碑，突显了其令人难以置信的价格升值。]]></description>
+      <guid>https://bitcoinmagazine.com/culture/bitcoin-price-20000-joe-rogan-podcast</guid>
+      <pubDate>Thu, 21 Sep 2023 13:04:53 GMT</pubDate>
+    </item>
     <item>
       <title>读者对传动链激励问题的反应</title>
       <link>https://bitcoinmagazine.com/technical/readers-react-to-drivechain-incentive-concerns</link>
@@ -291,69 +354,6 @@
       <description><![CDATA[为什么比特币在末日准备者和悲观主义者中如此受欢迎？它最有可能在最坏的情况下幸存下来。]]></description>
       <guid>https://bitcoinmagazine.com/culture/apocalypse-pow-bitcoin-and-the-end-of-days</guid>
       <pubDate>Mon, 11 Sep 2023 15:02:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过马克·古德温的《比特币美元》探索金融与信任的交叉点</title>
-      <link>https://bitcoinmagazine.com/bitcoin-books/exploring-finance-and-trust-with-the-bitcoin-dollar</link>
-      <description><![CDATA[比特币杂志主编发布了他的第一本书，为随着比特币的发明而变化的金融格局提供了新的视角。]]></description>
-      <guid>https://bitcoinmagazine.com/bitcoin-books/exploring-finance-and-trust-with-the-bitcoin-dollar</guid>
-      <pubDate>Mon, 11 Sep 2023 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>ZK Rollup 即将登陆比特币。这是您需要知道的全部</title>
-      <link>https://bitcoinmagazine.com/technical/zk-rollups-are-coming-to-bitcoin-heres-all-you-need-to-know</link>
-      <description><![CDATA[零知识汇总即将进入比特币，两个团队竞相将这种新颖的可扩展性和隐私解决方案引入最古老的加密货币。]]></description>
-      <guid>https://bitcoinmagazine.com/technical/zk-rollups-are-coming-to-bitcoin-heres-all-you-need-to-know</guid>
-      <pubDate>Mon, 11 Sep 2023 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chainaanalysis谴责比特币核心贡献者“不合格”</title>
-      <link>https://bitcoinmagazine.com/technical/chainalysis-denounces-bitcoin-core-contributor-as-unqualified</link>
-      <description><![CDATA[Chainaanalysis 试图将比特币核心贡献者 Bryan Bishop 视为“没有资格”审计 Chainaanalysis 的源代码，因为这家监控公司自己的专家在区块链上毫无头绪。]]></description>
-      <guid>https://bitcoinmagazine.com/technical/chainalysis-denounces-bitcoin-core-contributor-as-unqualified</guid>
-      <pubDate>Sat, 09 Sep 2023 17:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>萨尔瓦多的比特币革命：法定货币两年</title>
-      <link>https://bitcoinmagazine.com/el-salvador-bitcoin-news/el-salvadors-bitcoin-revolution-two-years-as-legal-tender</link>
-      <description><![CDATA[采用比特币作为法定货币两年后，萨尔瓦多经历了巨大的转变。]]></description>
-      <guid>https://bitcoinmagazine.com/el-salvador-bitcoin-news/el-salvadors-bitcoin-revolution-two-years-as-legal-tender</guid>
-      <pubDate>Fri, 08 Sep 2023 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Slice 应用程序现在允许用户用比特币收入购买游戏礼品卡</title>
-      <link>https://bitcoinmagazine.com/business/bitrefill-and-slice-partner-to-empower-users-with-more-choices-to-spend-their-bitcoin</link>
-      <description><![CDATA[Slice 和 Bitrefill 之间的合作只是他们重新定义在线收入和支出的共同使命的开始。]]></description>
-      <guid>https://bitcoinmagazine.com/business/bitrefill-and-slice-partner-to-empower-users-with-more-choices-to-spend-their-bitcoin</guid>
-      <pubDate>Fri, 08 Sep 2023 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Samara Asset 捐赠 10,000 美元支持非洲女性比特币教育</title>
-      <link>https://bitcoinmagazine.com/culture/samara-donates-10000-to-support-bitcoin-education-for-women-in-africa</link>
-      <description><![CDATA[Samara Asset 向 Bitcoin DADA 捐赠了 10,000 美元的 BTC，支持非洲女性接受比特币教育。]]></description>
-      <guid>https://bitcoinmagazine.com/culture/samara-donates-10000-to-support-bitcoin-education-for-women-in-africa</guid>
-      <pubDate>Thu, 07 Sep 2023 20:20:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Peach比特币升级点对点交易体验</title>
-      <link>https://bitcoinmagazine.com/business/peach-bitcoin-celebrates-one-year-anniversary-with-launch-of-version-0-3</link>
-      <description><![CDATA[该版本增强了比特币点对点交易格局，为用户提供了一个安全、用户友好的平台，无需 KYC 即可进行交易。]]></description>
-      <guid>https://bitcoinmagazine.com/business/peach-bitcoin-celebrates-one-year-anniversary-with-launch-of-version-0-3</guid>
-      <pubDate>Thu, 07 Sep 2023 17:18:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>萨尔瓦多推出教育计划，在每所学校教授比特币</title>
-      <link>https://bitcoinmagazine.com/el-salvador-bitcoin-news/el-salvador-launches-education-program-to-teach-bitcoin-in-every-school</link>
-      <description><![CDATA[萨尔瓦多雄心勃勃的计划旨在到 2024 年将比特币教育纳入全国所有学校。]]></description>
-      <guid>https://bitcoinmagazine.com/el-salvador-bitcoin-news/el-salvador-launches-education-program-to-teach-bitcoin-in-every-school</guid>
-      <pubDate>Thu, 07 Sep 2023 16:27:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么高级比特币爱好者应该考虑升级到 Shamir 备份</title>
-      <link>https://bitcoinmagazine.com/technical/why-advanced-bitcoiners-should-consider-upgrading-to-a-shamir-backup</link>
-      <description><![CDATA[高级用户应考虑 Shamir 秘密共享提供的复杂性和备份丢失恢复能力之间的权衡。]]></description>
-      <guid>https://bitcoinmagazine.com/technical/why-advanced-bitcoiners-should-consider-upgrading-to-a-shamir-backup</guid>
-      <pubDate>Thu, 07 Sep 2023 15:59:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
